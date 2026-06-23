@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <title>Concorso Oss – Regione Puglia</title>
+
+  <link rel="stylesheet" href="style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+  <header>
+    <h1>Concorso Oss – Regione Puglia</h1>
+    <p class="subtitle">
+      Strumento informativo per la consultazione dei punteggi di preselezione
+    </p>
+  </header>
+
+<section class="dedica-box">
+  <p>
+    Un piccolo strumento per chi ogni giorno è accanto alle persone,
+    con impegno, pazienza e umanità.<br><br>
+    Agli OSS, cuore silenzioso della sanità. ❤️
+  </p>
+</section
+
+
+<section class="donazione-box">
+  <p>
+    Se questo strumento ti sta aiutando nel concorso,
+    puoi offrirmi un caffè ☕
+  </p>
+
+  <p class="mini">
+    Continuerò ad aggiornare i risultati.
+  </p>
+
+  <a href="https://www.paypal.me/toniodigiulio" target="_blank" class="paypal-btn">
+    Dona con PayPal
+  </a>
+</section>
+
+<section class="info-box">
+  <h2>Informazioni importanti</h2>
+
+  <ul>
+    <li>
+      I dati visualizzati includono i risultati di tutti i <strong>turni</strong>. 
+    </li>
+    <li>
+      L’elenco è <strong>ordinato esclusivamente per punteggio decrescente</strong>.
+    </li>
+    <li>
+      In caso di <strong>punteggio uguale</strong>, l’ordine dei candidati è
+      <strong>casuale</strong> e non rappresenta alcuna precedenza.
+    </li>
+    <li>
+      Questa pagina <strong>NON rappresenta la graduatoria ufficiale</strong>
+      e <strong>non ha valore legale</strong>.
+    </li>
+    <li>
+      Il contenuto è fornito <strong>unicamente a scopo informativo</strong>
+      per facilitare la consultazione dei dati pubblicati.
+    </li>
+  </ul>
+</section>
+
+<section class="stats-grid">
+
+  <div class="stat">
+    <span class="stat-label">Candidati analizzati finora</span>
+    <span class="stat-value" id="totale-candidati">-</span>
+  </div>
+
+  <div class="stat">
+    <span class="stat-label">Punteggio medio</span>
+    <span class="stat-value" id="punteggio-medio">-</span>
+  </div>
+
+  <!--<div class="stat">
+    <span class="stat-label">Turni analizzati</span>
+    <span class="stat-value">6</span>
+  </div>-->
+  
+  <div class="stat">
+	<span class="stat-label">Candidati non presentati (Fino ad ora)</span>
+	<span class="stat-value">2871</span>
+  </div>
+
+  <div class="stat">
+    <span class="stat-label">Ammessi alla prova successiva</span>
+    <span class="stat-value">4500</span>
+  </div>
+
+  <div class="stat">
+    <span class="stat-label">Candidati ammessi alla preselettiva</span>
+    <span class="stat-value">12171</span>
+  </div>
+  
+  
+  <!--<div class="stat">
+    <span class="stat-label">Ultimo aggiornamento</span>
+    <span class="stat-value" id="ultimo-aggiornamento">—</span>
+  </div>-->
+
+
+</section>
+
+
+
+
+<section class="search-section">
+  <input
+    type="text"
+    id="search"
+    placeholder="Inserisci il tuo codice candidato (es. M-17018)"
+    autocomplete="off"
+  />
+</section>
+
+  <section class="table-wrapper">
+    <table>
+      <thead>
+        <tr>
+          <th>Posizione</th>
+          <th>Codice candidato</th>
+          <th>Punteggio</th>
+          <th>Turno</th>
+          <th>Esito stimato</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </section>
+	
+<section class="pagination">
+  <button id="prev">⬅️ Indietro</button>
+  <span id="page-info"></span>
+  <button id="next">Avanti ➡️</button>
+</section>
+
+
+
+<footer>
+  <p>
+    Questo strumento è stato creato <strong>puramente per facilitare la visualizzazione dei dati</strong>
+    ed è stato realizzato da <strong>Antonio Di Giulio</strong>.
+  </p>
+
+  <p class="footer-note">
+    Per ogni riferimento ufficiale fa sempre fede la documentazione pubblicata dall’ente.
+  </p>
+
+  <p class="footer-note">
+    © 2026 Antonio Di Giulio — Tutti i diritti riservati
+  </p>
+
+  <p class="footer-note">
+    <a href="privacy.html">Privacy</a>
+  </p>
+
+</footer>
+
+
+  <script src="app.js"></script>
+</body>
+</html>

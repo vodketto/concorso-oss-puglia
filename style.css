@@ -1,0 +1,363 @@
+/* BASE */
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  background: #f4f6f8;
+  color: #1f2937;
+}
+
+/* HEADER */
+header {
+  background: linear-gradient(90deg, #2563eb, #1e40af);
+  color: white;
+  padding: 32px 20px;
+  text-align: center;
+}
+
+header h1 {
+  margin: 0;
+}
+
+.subtitle {
+  margin-top: 8px;
+  font-size: 0.95rem;
+  opacity: 0.9;
+}
+
+/* INFO BOX */
+.info-box {
+  max-width: 1000px;
+  margin: 30px auto;
+  background: #ffffff;
+  border-radius: 10px;
+  padding: 20px 25px;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.06);
+}
+
+.info-box h2 {
+  margin-top: 0;
+  color: #1e40af;
+  font-size: 1.1rem;
+}
+
+.info-box ul {
+  padding-left: 20px;
+}
+
+.info-box li {
+  margin-bottom: 10px;
+  line-height: 1.4;
+}
+
+/* TABLE */
+.table-wrapper {
+  max-width: 1200px;
+  margin: auto;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+  overflow-x: auto;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+thead {
+  background: #e5e7eb;
+}
+
+th, td {
+  padding: 12px;
+  text-align: center;
+}
+
+tbody tr:nth-child(even) {
+  background: #f9fafb;
+}
+
+tbody tr:hover {
+  background: #eef2ff;
+}
+
+/* BADGE */
+.badge {
+  padding: 5px 12px;
+  border-radius: 20px;
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+.ok {
+  background: #dcfce7;
+  color: #166534;
+}
+
+.warn {
+  background: #fef3c7;
+  color: #92400e;
+}
+
+.no {
+  background: #fee2e2;
+  color: #991b1b;
+}
+
+/* FOOTER */
+footer {
+  text-align: center;
+  font-size: 0.85rem;
+  color: #6b7280;
+  margin: 40px 20px 30px;
+}
+
+.footer-note {
+  margin-top: 6px;
+  font-style: italic;
+}
+/* STATISTICHE */
+.stats-box {
+  max-width: 1000px;
+  margin: 20px auto 10px auto;
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+/* BOX BASE */
+.stat {
+  background: #ffffff;
+  border-radius: 12px;
+  padding: 18px 20px;
+  text-align: center;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.06);
+}
+
+/* BOX EVIDENZIATO (4500) */
+.stat.highlight {
+  background: #ecfeff;
+  border: 2px solid #06b6d4;
+}
+
+.stat.highlight .stat-value {
+  color: #0369a1;
+}
+
+/* GRID STATISTICHE */
+.stats-grid {
+  max-width: 1200px;
+  margin: 25px auto;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr); /* FORZA 5 BOX ALLINEATI */
+  gap: 20px;
+}
+
+/* Responsive: tablet */
+@media (max-width: 1100px) {
+  .stats-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+/* Responsive: mobile */
+@media (max-width: 700px) {
+  .stats-grid {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
+
+
+/* BOX UNIFORMI */
+.stat {
+  background: #ffffff;
+  border-radius: 12px;
+  padding: 18px 20px;
+  text-align: center;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.06);
+}
+
+.stat-label {
+  display: block;
+  font-size: 0.85rem;
+  color: #6b7280;
+  margin-bottom: 6px;
+}
+
+.stat-value {
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: #1e40af;
+}
+
+/* DEDICA */
+.dedica-box {
+  max-width: 500px;
+  margin: 20px auto;
+  padding: 10px 16px;
+  text-align: center;
+  background: #fff7ed;
+  border: 1px solid #fed7aa;
+  border-radius: 10px;
+  font-size: 0.9rem;
+  color: #9a3412;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.04);
+}
+
+.dedica-box p {
+  margin: 0;
+}
+
+
+/* SEZIONE RICERCA */
+.search-section {
+  display: flex;
+  justify-content: center;
+  margin: 30px auto 35px auto;
+}
+
+.search-section input {
+  width: 420px;
+  max-width: 90%;
+  padding: 14px 16px;
+  font-size: 1rem;
+  border-radius: 12px;
+  border: 1px solid #cbd5e1;
+  text-align: center;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.06);
+}
+
+.search-section input:focus {
+  outline: none;
+  border-color: #2563eb;
+}
+
+/* DONAZIONE PAYPAL */
+
+.donazione-box {
+  text-align: center;
+  margin: 40px auto 20px auto;
+  max-width: 500px;
+  padding: 18px 20px;
+  background: #fff7ed;
+  border: 1px solid #fed7aa;
+  border-radius: 12px;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.05);
+}
+
+.donazione-box p {
+  margin: 0;
+  font-size: 0.95rem;
+  color: #374151;
+}
+
+.donazione-box .mini {
+  margin-top: 8px;
+  font-size: 0.85rem;
+  color: #6b7280;
+}
+
+.paypal-btn {
+  display: inline-block;
+  margin-top: 12px;
+  padding: 10px 16px;
+  background: #ffc439;
+  color: #111827;
+  font-weight: 600;
+  border-radius: 8px;
+  text-decoration: none;
+  transition: transform 0.1s ease, box-shadow 0.1s ease;
+}
+
+.paypal-btn:hover {
+  background: #f2b807;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+
+.file-link {
+  color: #2563eb;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.file-link:hover {
+  text-decoration: underline;
+}
+
+.btn-risorse {
+  display: inline-block;
+  padding: 10px 18px;
+  background: #1e40af;
+  color: white;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.btn-risorse:hover {
+  background: #1e3a8a;
+}
+
+header a {
+  color: #dbeafe;
+  text-decoration: none;
+  padding: 4px 8px;
+  border-radius: 6px;
+}
+
+header a:hover {
+  background: rgba(255,255,255,0.15);
+}
+
+.doc-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #f1f5f9;
+  padding: 14px 16px;
+  border-radius: 10px;
+  text-decoration: none;
+  color: #1e40af;
+  font-weight: 500;
+}
+
+.doc-item::after {
+  content: "⬇️";
+  font-size: 0.9rem;
+}
+
+.pagination {
+  text-align: center;
+  margin: 20px 0 30px 0;
+}
+
+.pagination button {
+  padding: 8px 14px;
+  margin: 0 10px;
+  border: none;
+  border-radius: 6px;
+  background: #1e40af;
+  color: white;
+  font-size: 0.9rem;
+  cursor: pointer;
+}
+
+.pagination button:hover {
+  background: #1e3a8a;
+}
+
+.pagination button:disabled {
+  background: #93c5fd;
+  cursor: not-allowed;
+}
+``
+
+
+
+
+
+
+
