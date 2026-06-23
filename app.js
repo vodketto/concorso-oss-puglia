@@ -4,7 +4,7 @@ const rowsPerPage = 5000;
 let originalData = [];
 let filteredData = [];
 
-fetch('candidati.json?v=' + new Date().getTime()
+fetch('candidati.json?v=' + new Date().getTime())
   .then(res => res.json())
   .then(data => {
 
