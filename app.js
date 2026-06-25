@@ -59,11 +59,16 @@ function renderTable() {
       punteggioHtml += " ❤️";
     }
 
+    // posizione reale quando si filtra
+    const posizioneReale = originalData.findIndex(o => o.codice === c.codice) + 1;
+    
     const row = document.createElement('tr');
     row.dataset.codice = c.codice.toUpperCase();
 
+    //<td>${start + index + 1}</td>
+    
     row.innerHTML = `
-      <td>${start + index + 1}</td>
+      <td>${posizioneReale}</td>
       <td>${c.codice}</td>
       <td>${punteggioHtml}</td>
       <td>${c.turno}</td>
