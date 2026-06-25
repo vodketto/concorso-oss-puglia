@@ -1,5 +1,5 @@
 let currentPage = 1;
-const rowsPerPage = 5000;
+const rowsPerPage = 10000;
 
 let originalData = [];
 let filteredData = [];
