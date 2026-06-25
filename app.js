@@ -34,8 +34,12 @@ function renderTable() {
   const end = start + rowsPerPage;
   const pageData = data.slice(start, end);
 
-  const punteggioSoglia =
-    data.length >= 4500 ? data[4499].punteggio : null;
+  const SOGLIA = 4500;
+
+  const punteggioSoglia = originalData.length >= SOGLIA ? originalData[SOGLIA - 1].punteggio : null;
+
+  //const punteggioSoglia =
+    //data.length >= 4500 ? data[4499].punteggio : null;
 
   pageData.forEach((c, index) => {
 
