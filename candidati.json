@@ -180,6 +180,66 @@
     "turno": 1
   },
   {
+    "codice": "D-2269",
+    "punteggio": 30.0,
+    "turno": 15
+  },
+  {
+    "codice": "D-3585",
+    "punteggio": 30.0,
+    "turno": 15
+  },
+  {
+    "codice": "D-4264",
+    "punteggio": 30.0,
+    "turno": 15
+  },
+  {
+    "codice": "D-5113",
+    "punteggio": 30.0,
+    "turno": 15
+  },
+  {
+    "codice": "D-8434",
+    "punteggio": 30.0,
+    "turno": 15
+  },
+  {
+    "codice": "E-14215",
+    "punteggio": 30.0,
+    "turno": 15
+  },
+  {
+    "codice": "F-1346",
+    "punteggio": 30.0,
+    "turno": 15
+  },
+  {
+    "codice": "F-15227",
+    "punteggio": 30.0,
+    "turno": 15
+  },
+  {
+    "codice": "F-15380",
+    "punteggio": 30.0,
+    "turno": 15
+  },
+  {
+    "codice": "F-21813",
+    "punteggio": 30.0,
+    "turno": 15
+  },
+  {
+    "codice": "F-5488",
+    "punteggio": 30.0,
+    "turno": 15
+  },
+  {
+    "codice": "F-5892",
+    "punteggio": 30.0,
+    "turno": 15
+  },
+  {
     "codice": "R-14107",
     "punteggio": 30.0,
     "turno": 4
@@ -775,6 +835,26 @@
     "turno": 1
   },
   {
+    "codice": "E-4231",
+    "punteggio": 28.85,
+    "turno": 15
+  },
+  {
+    "codice": "F-1720",
+    "punteggio": 28.85,
+    "turno": 15
+  },
+  {
+    "codice": "F-17545",
+    "punteggio": 28.85,
+    "turno": 15
+  },
+  {
+    "codice": "F-6365",
+    "punteggio": 28.85,
+    "turno": 15
+  },
+  {
     "codice": "P-21782",
     "punteggio": 28.85,
     "turno": 2
@@ -1118,6 +1198,126 @@
     "codice": "P-9903",
     "punteggio": 28.67,
     "turno": 1
+  },
+  {
+    "codice": "D-10494",
+    "punteggio": 28.67,
+    "turno": 15
+  },
+  {
+    "codice": "D-11986",
+    "punteggio": 28.67,
+    "turno": 15
+  },
+  {
+    "codice": "D-12491",
+    "punteggio": 28.67,
+    "turno": 15
+  },
+  {
+    "codice": "D-18965",
+    "punteggio": 28.67,
+    "turno": 15
+  },
+  {
+    "codice": "D-22303",
+    "punteggio": 28.67,
+    "turno": 15
+  },
+  {
+    "codice": "D-22463",
+    "punteggio": 28.67,
+    "turno": 15
+  },
+  {
+    "codice": "D-22816",
+    "punteggio": 28.67,
+    "turno": 15
+  },
+  {
+    "codice": "D-2783",
+    "punteggio": 28.67,
+    "turno": 15
+  },
+  {
+    "codice": "D-279",
+    "punteggio": 28.67,
+    "turno": 15
+  },
+  {
+    "codice": "D-337",
+    "punteggio": 28.67,
+    "turno": 15
+  },
+  {
+    "codice": "D-3437",
+    "punteggio": 28.67,
+    "turno": 15
+  },
+  {
+    "codice": "D-6235",
+    "punteggio": 28.67,
+    "turno": 15
+  },
+  {
+    "codice": "D-7409",
+    "punteggio": 28.67,
+    "turno": 15
+  },
+  {
+    "codice": "E-13800",
+    "punteggio": 28.67,
+    "turno": 15
+  },
+  {
+    "codice": "F-17016",
+    "punteggio": 28.67,
+    "turno": 15
+  },
+  {
+    "codice": "F-19387",
+    "punteggio": 28.67,
+    "turno": 15
+  },
+  {
+    "codice": "F-22020",
+    "punteggio": 28.67,
+    "turno": 15
+  },
+  {
+    "codice": "F-2353",
+    "punteggio": 28.67,
+    "turno": 15
+  },
+  {
+    "codice": "F-5614",
+    "punteggio": 28.67,
+    "turno": 15
+  },
+  {
+    "codice": "F-8062",
+    "punteggio": 28.67,
+    "turno": 15
+  },
+  {
+    "codice": "F-8555",
+    "punteggio": 28.67,
+    "turno": 15
+  },
+  {
+    "codice": "F-9272",
+    "punteggio": 28.67,
+    "turno": 15
+  },
+  {
+    "codice": "F-941",
+    "punteggio": 28.67,
+    "turno": 15
+  },
+  {
+    "codice": "F-9625",
+    "punteggio": 28.67,
+    "turno": 15
   },
   {
     "codice": "R-12487",
@@ -1945,6 +2145,16 @@
     "turno": 1
   },
   {
+    "codice": "D-17025",
+    "punteggio": 27.7,
+    "turno": 15
+  },
+  {
+    "codice": "D-17821",
+    "punteggio": 27.7,
+    "turno": 15
+  },
+  {
     "codice": "P-2999",
     "punteggio": 27.7,
     "turno": 2
@@ -2033,6 +2243,21 @@
     "codice": "P-8762",
     "punteggio": 27.52,
     "turno": 1
+  },
+  {
+    "codice": "D-12859",
+    "punteggio": 27.52,
+    "turno": 15
+  },
+  {
+    "codice": "D-13567",
+    "punteggio": 27.52,
+    "turno": 15
+  },
+  {
+    "codice": "D-7783",
+    "punteggio": 27.52,
+    "turno": 15
   },
   {
     "codice": "R-3719",
@@ -2523,6 +2748,91 @@
     "codice": "P-22639",
     "punteggio": 27.34,
     "turno": 1
+  },
+  {
+    "codice": "D-10880",
+    "punteggio": 27.34,
+    "turno": 15
+  },
+  {
+    "codice": "D-14096",
+    "punteggio": 27.34,
+    "turno": 15
+  },
+  {
+    "codice": "D-15203",
+    "punteggio": 27.34,
+    "turno": 15
+  },
+  {
+    "codice": "D-22259",
+    "punteggio": 27.34,
+    "turno": 15
+  },
+  {
+    "codice": "D-23017",
+    "punteggio": 27.34,
+    "turno": 15
+  },
+  {
+    "codice": "D-689",
+    "punteggio": 27.34,
+    "turno": 15
+  },
+  {
+    "codice": "D-8360",
+    "punteggio": 27.34,
+    "turno": 15
+  },
+  {
+    "codice": "E-11072",
+    "punteggio": 27.34,
+    "turno": 15
+  },
+  {
+    "codice": "E-7497",
+    "punteggio": 27.34,
+    "turno": 15
+  },
+  {
+    "codice": "F-10775",
+    "punteggio": 27.34,
+    "turno": 15
+  },
+  {
+    "codice": "F-13260",
+    "punteggio": 27.34,
+    "turno": 15
+  },
+  {
+    "codice": "F-15853",
+    "punteggio": 27.34,
+    "turno": 15
+  },
+  {
+    "codice": "F-16758",
+    "punteggio": 27.34,
+    "turno": 15
+  },
+  {
+    "codice": "F-313",
+    "punteggio": 27.34,
+    "turno": 15
+  },
+  {
+    "codice": "F-5348",
+    "punteggio": 27.34,
+    "turno": 15
+  },
+  {
+    "codice": "F-5720",
+    "punteggio": 27.34,
+    "turno": 15
+  },
+  {
+    "codice": "F-9471",
+    "punteggio": 27.34,
+    "turno": 15
   },
   {
     "codice": "R-1050",
@@ -3450,6 +3760,11 @@
     "turno": 13
   },
   {
+    "codice": "F-10244",
+    "punteggio": 26.55,
+    "turno": 15
+  },
+  {
     "codice": "B-8732",
     "punteggio": 26.55,
     "turno": 9
@@ -3508,6 +3823,16 @@
     "codice": "P-4425",
     "punteggio": 26.37,
     "turno": 1
+  },
+  {
+    "codice": "E-717",
+    "punteggio": 26.37,
+    "turno": 15
+  },
+  {
+    "codice": "F-12498",
+    "punteggio": 26.37,
+    "turno": 15
   },
   {
     "codice": "R-10450",
@@ -3618,6 +3943,31 @@
     "codice": "P-14509",
     "punteggio": 26.19,
     "turno": 1
+  },
+  {
+    "codice": "D-2023",
+    "punteggio": 26.19,
+    "turno": 15
+  },
+  {
+    "codice": "D-2524",
+    "punteggio": 26.19,
+    "turno": 15
+  },
+  {
+    "codice": "F-1580",
+    "punteggio": 26.19,
+    "turno": 15
+  },
+  {
+    "codice": "F-17780",
+    "punteggio": 26.19,
+    "turno": 15
+  },
+  {
+    "codice": "F-4139",
+    "punteggio": 26.19,
+    "turno": 15
   },
   {
     "codice": "R-18947",
@@ -4198,6 +4548,121 @@
     "codice": "P-4441",
     "punteggio": 26.01,
     "turno": 1
+  },
+  {
+    "codice": "D-11646",
+    "punteggio": 26.01,
+    "turno": 15
+  },
+  {
+    "codice": "D-18370",
+    "punteggio": 26.01,
+    "turno": 15
+  },
+  {
+    "codice": "D-18615",
+    "punteggio": 26.01,
+    "turno": 15
+  },
+  {
+    "codice": "D-22132",
+    "punteggio": 26.01,
+    "turno": 15
+  },
+  {
+    "codice": "D-3094",
+    "punteggio": 26.01,
+    "turno": 15
+  },
+  {
+    "codice": "D-7285",
+    "punteggio": 26.01,
+    "turno": 15
+  },
+  {
+    "codice": "D-8805",
+    "punteggio": 26.01,
+    "turno": 15
+  },
+  {
+    "codice": "E-11539",
+    "punteggio": 26.01,
+    "turno": 15
+  },
+  {
+    "codice": "E-11788",
+    "punteggio": 26.01,
+    "turno": 15
+  },
+  {
+    "codice": "E-15567",
+    "punteggio": 26.01,
+    "turno": 15
+  },
+  {
+    "codice": "E-4192",
+    "punteggio": 26.01,
+    "turno": 15
+  },
+  {
+    "codice": "E-4257",
+    "punteggio": 26.01,
+    "turno": 15
+  },
+  {
+    "codice": "E-7419",
+    "punteggio": 26.01,
+    "turno": 15
+  },
+  {
+    "codice": "F-11456",
+    "punteggio": 26.01,
+    "turno": 15
+  },
+  {
+    "codice": "F-1350",
+    "punteggio": 26.01,
+    "turno": 15
+  },
+  {
+    "codice": "F-14236",
+    "punteggio": 26.01,
+    "turno": 15
+  },
+  {
+    "codice": "F-14489",
+    "punteggio": 26.01,
+    "turno": 15
+  },
+  {
+    "codice": "F-21740",
+    "punteggio": 26.01,
+    "turno": 15
+  },
+  {
+    "codice": "F-2244",
+    "punteggio": 26.01,
+    "turno": 15
+  },
+  {
+    "codice": "F-22915",
+    "punteggio": 26.01,
+    "turno": 15
+  },
+  {
+    "codice": "F-2521",
+    "punteggio": 26.01,
+    "turno": 15
+  },
+  {
+    "codice": "F-3931",
+    "punteggio": 26.01,
+    "turno": 15
+  },
+  {
+    "codice": "F-4941",
+    "punteggio": 26.01,
+    "turno": 15
   },
   {
     "codice": "R-10018",
@@ -5320,6 +5785,21 @@
     "turno": 1
   },
   {
+    "codice": "D-19897",
+    "punteggio": 25.04,
+    "turno": 15
+  },
+  {
+    "codice": "D-363",
+    "punteggio": 25.04,
+    "turno": 15
+  },
+  {
+    "codice": "F-8907",
+    "punteggio": 25.04,
+    "turno": 15
+  },
+  {
     "codice": "S-18225",
     "punteggio": 25.04,
     "turno": 4
@@ -5543,6 +6023,51 @@
     "codice": "O-21768",
     "punteggio": 24.86,
     "turno": 1
+  },
+  {
+    "codice": "D-12735",
+    "punteggio": 24.86,
+    "turno": 15
+  },
+  {
+    "codice": "D-5255",
+    "punteggio": 24.86,
+    "turno": 15
+  },
+  {
+    "codice": "E-6746",
+    "punteggio": 24.86,
+    "turno": 15
+  },
+  {
+    "codice": "F-13456",
+    "punteggio": 24.86,
+    "turno": 15
+  },
+  {
+    "codice": "F-18592",
+    "punteggio": 24.86,
+    "turno": 15
+  },
+  {
+    "codice": "F-19147",
+    "punteggio": 24.86,
+    "turno": 15
+  },
+  {
+    "codice": "F-21140",
+    "punteggio": 24.86,
+    "turno": 15
+  },
+  {
+    "codice": "F-282",
+    "punteggio": 24.86,
+    "turno": 15
+  },
+  {
+    "codice": "F-6189",
+    "punteggio": 24.86,
+    "turno": 15
   },
   {
     "codice": "R-18104",
@@ -6203,6 +6728,126 @@
     "codice": "P-9158",
     "punteggio": 24.68,
     "turno": 1
+  },
+  {
+    "codice": "D-15006",
+    "punteggio": 24.68,
+    "turno": 15
+  },
+  {
+    "codice": "D-1623",
+    "punteggio": 24.68,
+    "turno": 15
+  },
+  {
+    "codice": "D-17335",
+    "punteggio": 24.68,
+    "turno": 15
+  },
+  {
+    "codice": "D-17661",
+    "punteggio": 24.68,
+    "turno": 15
+  },
+  {
+    "codice": "D-19234",
+    "punteggio": 24.68,
+    "turno": 15
+  },
+  {
+    "codice": "D-22491",
+    "punteggio": 24.68,
+    "turno": 15
+  },
+  {
+    "codice": "D-9220",
+    "punteggio": 24.68,
+    "turno": 15
+  },
+  {
+    "codice": "E-17830",
+    "punteggio": 24.68,
+    "turno": 15
+  },
+  {
+    "codice": "E-19096",
+    "punteggio": 24.68,
+    "turno": 15
+  },
+  {
+    "codice": "F-12473",
+    "punteggio": 24.68,
+    "turno": 15
+  },
+  {
+    "codice": "F-12768",
+    "punteggio": 24.68,
+    "turno": 15
+  },
+  {
+    "codice": "F-12772",
+    "punteggio": 24.68,
+    "turno": 15
+  },
+  {
+    "codice": "F-13513",
+    "punteggio": 24.68,
+    "turno": 15
+  },
+  {
+    "codice": "F-14376",
+    "punteggio": 24.68,
+    "turno": 15
+  },
+  {
+    "codice": "F-14758",
+    "punteggio": 24.68,
+    "turno": 15
+  },
+  {
+    "codice": "F-15572",
+    "punteggio": 24.68,
+    "turno": 15
+  },
+  {
+    "codice": "F-18903",
+    "punteggio": 24.68,
+    "turno": 15
+  },
+  {
+    "codice": "F-20467",
+    "punteggio": 24.68,
+    "turno": 15
+  },
+  {
+    "codice": "F-22061",
+    "punteggio": 24.68,
+    "turno": 15
+  },
+  {
+    "codice": "F-22105",
+    "punteggio": 24.68,
+    "turno": 15
+  },
+  {
+    "codice": "F-3066",
+    "punteggio": 24.68,
+    "turno": 15
+  },
+  {
+    "codice": "F-4633",
+    "punteggio": 24.68,
+    "turno": 15
+  },
+  {
+    "codice": "F-5025",
+    "punteggio": 24.68,
+    "turno": 15
+  },
+  {
+    "codice": "F-901",
+    "punteggio": 24.68,
+    "turno": 15
   },
   {
     "codice": "R-10694",
@@ -7260,6 +7905,11 @@
     "turno": 1
   },
   {
+    "codice": "F-24098",
+    "punteggio": 24.07,
+    "turno": 15
+  },
+  {
     "codice": "R-16557",
     "punteggio": 24.07,
     "turno": 4
@@ -7333,6 +7983,31 @@
     "codice": "P-4719",
     "punteggio": 23.89,
     "turno": 1
+  },
+  {
+    "codice": "D-1596",
+    "punteggio": 23.89,
+    "turno": 15
+  },
+  {
+    "codice": "D-16922",
+    "punteggio": 23.89,
+    "turno": 15
+  },
+  {
+    "codice": "D-17616",
+    "punteggio": 23.89,
+    "turno": 15
+  },
+  {
+    "codice": "F-17704",
+    "punteggio": 23.89,
+    "turno": 15
+  },
+  {
+    "codice": "F-5769",
+    "punteggio": 23.89,
+    "turno": 15
   },
   {
     "codice": "R-12652",
@@ -7473,6 +8148,21 @@
     "codice": "P-16247",
     "punteggio": 23.71,
     "turno": 1
+  },
+  {
+    "codice": "D-17204",
+    "punteggio": 23.71,
+    "turno": 15
+  },
+  {
+    "codice": "F-19068",
+    "punteggio": 23.71,
+    "turno": 15
+  },
+  {
+    "codice": "F-20738",
+    "punteggio": 23.71,
+    "turno": 15
   },
   {
     "codice": "R-15001",
@@ -7793,6 +8483,41 @@
     "codice": "P-16933",
     "punteggio": 23.53,
     "turno": 1
+  },
+  {
+    "codice": "D-14729",
+    "punteggio": 23.53,
+    "turno": 15
+  },
+  {
+    "codice": "D-18681",
+    "punteggio": 23.53,
+    "turno": 15
+  },
+  {
+    "codice": "F-10599",
+    "punteggio": 23.53,
+    "turno": 15
+  },
+  {
+    "codice": "F-11645",
+    "punteggio": 23.53,
+    "turno": 15
+  },
+  {
+    "codice": "F-11970",
+    "punteggio": 23.53,
+    "turno": 15
+  },
+  {
+    "codice": "F-13915",
+    "punteggio": 23.53,
+    "turno": 15
+  },
+  {
+    "codice": "F-8269",
+    "punteggio": 23.53,
+    "turno": 15
   },
   {
     "codice": "R-1007",
@@ -8503,6 +9228,96 @@
     "codice": "P-7296",
     "punteggio": 23.35,
     "turno": 1
+  },
+  {
+    "codice": "D-11782",
+    "punteggio": 23.35,
+    "turno": 15
+  },
+  {
+    "codice": "D-1525",
+    "punteggio": 23.35,
+    "turno": 15
+  },
+  {
+    "codice": "D-1680",
+    "punteggio": 23.35,
+    "turno": 15
+  },
+  {
+    "codice": "D-20406",
+    "punteggio": 23.35,
+    "turno": 15
+  },
+  {
+    "codice": "D-20682",
+    "punteggio": 23.35,
+    "turno": 15
+  },
+  {
+    "codice": "D-21985",
+    "punteggio": 23.35,
+    "turno": 15
+  },
+  {
+    "codice": "D-358",
+    "punteggio": 23.35,
+    "turno": 15
+  },
+  {
+    "codice": "D-9062",
+    "punteggio": 23.35,
+    "turno": 15
+  },
+  {
+    "codice": "E-11838",
+    "punteggio": 23.35,
+    "turno": 15
+  },
+  {
+    "codice": "E-14234",
+    "punteggio": 23.35,
+    "turno": 15
+  },
+  {
+    "codice": "E-17300",
+    "punteggio": 23.35,
+    "turno": 15
+  },
+  {
+    "codice": "F-17085",
+    "punteggio": 23.35,
+    "turno": 15
+  },
+  {
+    "codice": "F-24384",
+    "punteggio": 23.35,
+    "turno": 15
+  },
+  {
+    "codice": "F-4615",
+    "punteggio": 23.35,
+    "turno": 15
+  },
+  {
+    "codice": "F-5473",
+    "punteggio": 23.35,
+    "turno": 15
+  },
+  {
+    "codice": "F-7453",
+    "punteggio": 23.35,
+    "turno": 15
+  },
+  {
+    "codice": "F-9221",
+    "punteggio": 23.35,
+    "turno": 15
+  },
+  {
+    "codice": "F-9422",
+    "punteggio": 23.35,
+    "turno": 15
   },
   {
     "codice": "R-11924",
@@ -9755,6 +10570,11 @@
     "turno": 1
   },
   {
+    "codice": "E-2454",
+    "punteggio": 22.74,
+    "turno": 15
+  },
+  {
     "codice": "V-8846",
     "punteggio": 22.74,
     "turno": 7
@@ -9843,6 +10663,26 @@
     "codice": "P-24344",
     "punteggio": 22.56,
     "turno": 1
+  },
+  {
+    "codice": "D-13811",
+    "punteggio": 22.56,
+    "turno": 15
+  },
+  {
+    "codice": "D-376",
+    "punteggio": 22.56,
+    "turno": 15
+  },
+  {
+    "codice": "D-4616",
+    "punteggio": 22.56,
+    "turno": 15
+  },
+  {
+    "codice": "D-9170",
+    "punteggio": 22.56,
+    "turno": 15
   },
   {
     "codice": "R-22378",
@@ -10043,6 +10883,41 @@
     "codice": "P-7398",
     "punteggio": 22.38,
     "turno": 1
+  },
+  {
+    "codice": "D-4176",
+    "punteggio": 22.38,
+    "turno": 15
+  },
+  {
+    "codice": "E-13547",
+    "punteggio": 22.38,
+    "turno": 15
+  },
+  {
+    "codice": "F-11449",
+    "punteggio": 22.38,
+    "turno": 15
+  },
+  {
+    "codice": "F-13758",
+    "punteggio": 22.38,
+    "turno": 15
+  },
+  {
+    "codice": "F-16870",
+    "punteggio": 22.38,
+    "turno": 15
+  },
+  {
+    "codice": "F-5184",
+    "punteggio": 22.38,
+    "turno": 15
+  },
+  {
+    "codice": "F-961",
+    "punteggio": 22.38,
+    "turno": 15
   },
   {
     "codice": "R-4403",
@@ -10328,6 +11203,31 @@
     "codice": "P-21865",
     "punteggio": 22.2,
     "turno": 1
+  },
+  {
+    "codice": "D-21007",
+    "punteggio": 22.2,
+    "turno": 15
+  },
+  {
+    "codice": "D-24558",
+    "punteggio": 22.2,
+    "turno": 15
+  },
+  {
+    "codice": "E-14599",
+    "punteggio": 22.2,
+    "turno": 15
+  },
+  {
+    "codice": "F-4933",
+    "punteggio": 22.2,
+    "turno": 15
+  },
+  {
+    "codice": "F-8585",
+    "punteggio": 22.2,
+    "turno": 15
   },
   {
     "codice": "P-21589",
@@ -11013,6 +11913,116 @@
     "codice": "P-7243",
     "punteggio": 22.02,
     "turno": 1
+  },
+  {
+    "codice": "D-11735",
+    "punteggio": 22.02,
+    "turno": 15
+  },
+  {
+    "codice": "D-16254",
+    "punteggio": 22.02,
+    "turno": 15
+  },
+  {
+    "codice": "D-18305",
+    "punteggio": 22.02,
+    "turno": 15
+  },
+  {
+    "codice": "D-4527",
+    "punteggio": 22.02,
+    "turno": 15
+  },
+  {
+    "codice": "D-8609",
+    "punteggio": 22.02,
+    "turno": 15
+  },
+  {
+    "codice": "E-11691",
+    "punteggio": 22.02,
+    "turno": 15
+  },
+  {
+    "codice": "E-14963",
+    "punteggio": 22.02,
+    "turno": 15
+  },
+  {
+    "codice": "E-17885",
+    "punteggio": 22.02,
+    "turno": 15
+  },
+  {
+    "codice": "E-18593",
+    "punteggio": 22.02,
+    "turno": 15
+  },
+  {
+    "codice": "E-19431",
+    "punteggio": 22.02,
+    "turno": 15
+  },
+  {
+    "codice": "E-22774",
+    "punteggio": 22.02,
+    "turno": 15
+  },
+  {
+    "codice": "F-1409",
+    "punteggio": 22.02,
+    "turno": 15
+  },
+  {
+    "codice": "F-1755",
+    "punteggio": 22.02,
+    "turno": 15
+  },
+  {
+    "codice": "F-17682",
+    "punteggio": 22.02,
+    "turno": 15
+  },
+  {
+    "codice": "F-17783",
+    "punteggio": 22.02,
+    "turno": 15
+  },
+  {
+    "codice": "F-19169",
+    "punteggio": 22.02,
+    "turno": 15
+  },
+  {
+    "codice": "F-23173",
+    "punteggio": 22.02,
+    "turno": 15
+  },
+  {
+    "codice": "F-24311",
+    "punteggio": 22.02,
+    "turno": 15
+  },
+  {
+    "codice": "F-3619",
+    "punteggio": 22.02,
+    "turno": 15
+  },
+  {
+    "codice": "F-4249",
+    "punteggio": 22.02,
+    "turno": 15
+  },
+  {
+    "codice": "F-7401",
+    "punteggio": 22.02,
+    "turno": 15
+  },
+  {
+    "codice": "F-7559",
+    "punteggio": 22.02,
+    "turno": 15
   },
   {
     "codice": "R-12395",
@@ -12435,6 +13445,11 @@
     "turno": 13
   },
   {
+    "codice": "E-10625",
+    "punteggio": 21.59,
+    "turno": 15
+  },
+  {
     "codice": "R-13520",
     "punteggio": 21.59,
     "turno": 4
@@ -12488,6 +13503,21 @@
     "codice": "N-19039",
     "punteggio": 21.41,
     "turno": 1
+  },
+  {
+    "codice": "D-20895",
+    "punteggio": 21.41,
+    "turno": 15
+  },
+  {
+    "codice": "D-549",
+    "punteggio": 21.41,
+    "turno": 15
+  },
+  {
+    "codice": "F-16856",
+    "punteggio": 21.41,
+    "turno": 15
   },
   {
     "codice": "P-5509",
@@ -12628,6 +13658,36 @@
     "codice": "P-5464",
     "punteggio": 21.23,
     "turno": 1
+  },
+  {
+    "codice": "D-13137",
+    "punteggio": 21.23,
+    "turno": 15
+  },
+  {
+    "codice": "D-13784",
+    "punteggio": 21.23,
+    "turno": 15
+  },
+  {
+    "codice": "D-4357",
+    "punteggio": 21.23,
+    "turno": 15
+  },
+  {
+    "codice": "D-7594",
+    "punteggio": 21.23,
+    "turno": 15
+  },
+  {
+    "codice": "F-10374",
+    "punteggio": 21.23,
+    "turno": 15
+  },
+  {
+    "codice": "F-15024",
+    "punteggio": 21.23,
+    "turno": 15
   },
   {
     "codice": "S-16839",
@@ -12793,6 +13853,26 @@
     "codice": "P-4278",
     "punteggio": 21.05,
     "turno": 1
+  },
+  {
+    "codice": "D-16291",
+    "punteggio": 21.05,
+    "turno": 15
+  },
+  {
+    "codice": "E-2029",
+    "punteggio": 21.05,
+    "turno": 15
+  },
+  {
+    "codice": "F-11222",
+    "punteggio": 21.05,
+    "turno": 15
+  },
+  {
+    "codice": "F-18926",
+    "punteggio": 21.05,
+    "turno": 15
   },
   {
     "codice": "R-6374",
@@ -13113,6 +14193,66 @@
     "codice": "P-713",
     "punteggio": 20.87,
     "turno": 1
+  },
+  {
+    "codice": "D-14326",
+    "punteggio": 20.87,
+    "turno": 15
+  },
+  {
+    "codice": "D-22758",
+    "punteggio": 20.87,
+    "turno": 15
+  },
+  {
+    "codice": "D-24702",
+    "punteggio": 20.87,
+    "turno": 15
+  },
+  {
+    "codice": "D-3128",
+    "punteggio": 20.87,
+    "turno": 15
+  },
+  {
+    "codice": "E-23641",
+    "punteggio": 20.87,
+    "turno": 15
+  },
+  {
+    "codice": "F-10166",
+    "punteggio": 20.87,
+    "turno": 15
+  },
+  {
+    "codice": "F-12248",
+    "punteggio": 20.87,
+    "turno": 15
+  },
+  {
+    "codice": "F-18956",
+    "punteggio": 20.87,
+    "turno": 15
+  },
+  {
+    "codice": "F-19912",
+    "punteggio": 20.87,
+    "turno": 15
+  },
+  {
+    "codice": "F-6084",
+    "punteggio": 20.87,
+    "turno": 15
+  },
+  {
+    "codice": "F-6173",
+    "punteggio": 20.87,
+    "turno": 15
+  },
+  {
+    "codice": "F-8785",
+    "punteggio": 20.87,
+    "turno": 15
   },
   {
     "codice": "R-11153",
@@ -13958,6 +15098,106 @@
     "codice": "P-5195",
     "punteggio": 20.69,
     "turno": 1
+  },
+  {
+    "codice": "D-18240",
+    "punteggio": 20.69,
+    "turno": 15
+  },
+  {
+    "codice": "D-18343",
+    "punteggio": 20.69,
+    "turno": 15
+  },
+  {
+    "codice": "D-19345",
+    "punteggio": 20.69,
+    "turno": 15
+  },
+  {
+    "codice": "D-19434",
+    "punteggio": 20.69,
+    "turno": 15
+  },
+  {
+    "codice": "D-346",
+    "punteggio": 20.69,
+    "turno": 15
+  },
+  {
+    "codice": "D-355",
+    "punteggio": 20.69,
+    "turno": 15
+  },
+  {
+    "codice": "D-3871",
+    "punteggio": 20.69,
+    "turno": 15
+  },
+  {
+    "codice": "D-6428",
+    "punteggio": 20.69,
+    "turno": 15
+  },
+  {
+    "codice": "E-13218",
+    "punteggio": 20.69,
+    "turno": 15
+  },
+  {
+    "codice": "E-24497",
+    "punteggio": 20.69,
+    "turno": 15
+  },
+  {
+    "codice": "E-5197",
+    "punteggio": 20.69,
+    "turno": 15
+  },
+  {
+    "codice": "E-8086",
+    "punteggio": 20.69,
+    "turno": 15
+  },
+  {
+    "codice": "E-8973",
+    "punteggio": 20.69,
+    "turno": 15
+  },
+  {
+    "codice": "F-13112",
+    "punteggio": 20.69,
+    "turno": 15
+  },
+  {
+    "codice": "F-19290",
+    "punteggio": 20.69,
+    "turno": 15
+  },
+  {
+    "codice": "F-21881",
+    "punteggio": 20.69,
+    "turno": 15
+  },
+  {
+    "codice": "F-24675",
+    "punteggio": 20.69,
+    "turno": 15
+  },
+  {
+    "codice": "F-566",
+    "punteggio": 20.69,
+    "turno": 15
+  },
+  {
+    "codice": "F-5748",
+    "punteggio": 20.69,
+    "turno": 15
+  },
+  {
+    "codice": "F-7993",
+    "punteggio": 20.69,
+    "turno": 15
   },
   {
     "codice": "R-11807",
@@ -15320,6 +16560,11 @@
     "turno": 13
   },
   {
+    "codice": "F-3445",
+    "punteggio": 20.44,
+    "turno": 15
+  },
+  {
     "codice": "V-11046",
     "punteggio": 20.44,
     "turno": 7
@@ -15405,6 +16650,16 @@
     "turno": 1
   },
   {
+    "codice": "D-15935",
+    "punteggio": 20.08,
+    "turno": 15
+  },
+  {
+    "codice": "D-20167",
+    "punteggio": 20.08,
+    "turno": 15
+  },
+  {
     "codice": "R-16798",
     "punteggio": 20.08,
     "turno": 4
@@ -15483,6 +16738,16 @@
     "codice": "N-12239",
     "punteggio": 19.9,
     "turno": 1
+  },
+  {
+    "codice": "D-22410",
+    "punteggio": 19.9,
+    "turno": 15
+  },
+  {
+    "codice": "F-1532",
+    "punteggio": 19.9,
+    "turno": 15
   },
   {
     "codice": "S-12228",
@@ -15668,6 +16933,31 @@
     "codice": "P-5006",
     "punteggio": 19.72,
     "turno": 1
+  },
+  {
+    "codice": "D-12019",
+    "punteggio": 19.72,
+    "turno": 15
+  },
+  {
+    "codice": "D-19163",
+    "punteggio": 19.72,
+    "turno": 15
+  },
+  {
+    "codice": "D-4654",
+    "punteggio": 19.72,
+    "turno": 15
+  },
+  {
+    "codice": "D-8123",
+    "punteggio": 19.72,
+    "turno": 15
+  },
+  {
+    "codice": "F-10075",
+    "punteggio": 19.72,
+    "turno": 15
   },
   {
     "codice": "R-12822",
@@ -16038,6 +17328,46 @@
     "codice": "P-2225",
     "punteggio": 19.54,
     "turno": 1
+  },
+  {
+    "codice": "D-1643",
+    "punteggio": 19.54,
+    "turno": 15
+  },
+  {
+    "codice": "D-3516",
+    "punteggio": 19.54,
+    "turno": 15
+  },
+  {
+    "codice": "D-5152",
+    "punteggio": 19.54,
+    "turno": 15
+  },
+  {
+    "codice": "E-8366",
+    "punteggio": 19.54,
+    "turno": 15
+  },
+  {
+    "codice": "F-10462",
+    "punteggio": 19.54,
+    "turno": 15
+  },
+  {
+    "codice": "F-18429",
+    "punteggio": 19.54,
+    "turno": 15
+  },
+  {
+    "codice": "F-22633",
+    "punteggio": 19.54,
+    "turno": 15
+  },
+  {
+    "codice": "F-7170",
+    "punteggio": 19.54,
+    "turno": 15
   },
   {
     "codice": "R-12199",
@@ -17048,6 +18378,91 @@
     "codice": "P-8998",
     "punteggio": 19.36,
     "turno": 1
+  },
+  {
+    "codice": "D-14048",
+    "punteggio": 19.36,
+    "turno": 15
+  },
+  {
+    "codice": "D-22631",
+    "punteggio": 19.36,
+    "turno": 15
+  },
+  {
+    "codice": "D-6650",
+    "punteggio": 19.36,
+    "turno": 15
+  },
+  {
+    "codice": "D-7057",
+    "punteggio": 19.36,
+    "turno": 15
+  },
+  {
+    "codice": "E-1144",
+    "punteggio": 19.36,
+    "turno": 15
+  },
+  {
+    "codice": "E-12213",
+    "punteggio": 19.36,
+    "turno": 15
+  },
+  {
+    "codice": "F-13954",
+    "punteggio": 19.36,
+    "turno": 15
+  },
+  {
+    "codice": "F-14887",
+    "punteggio": 19.36,
+    "turno": 15
+  },
+  {
+    "codice": "F-17926",
+    "punteggio": 19.36,
+    "turno": 15
+  },
+  {
+    "codice": "F-18092",
+    "punteggio": 19.36,
+    "turno": 15
+  },
+  {
+    "codice": "F-21459",
+    "punteggio": 19.36,
+    "turno": 15
+  },
+  {
+    "codice": "F-22772",
+    "punteggio": 19.36,
+    "turno": 15
+  },
+  {
+    "codice": "F-2811",
+    "punteggio": 19.36,
+    "turno": 15
+  },
+  {
+    "codice": "F-3857",
+    "punteggio": 19.36,
+    "turno": 15
+  },
+  {
+    "codice": "F-3966",
+    "punteggio": 19.36,
+    "turno": 15
+  },
+  {
+    "codice": "F-4473",
+    "punteggio": 19.36,
+    "turno": 15
+  },
+  {
+    "codice": "F-9864",
+    "punteggio": 19.36,
+    "turno": 15
   },
   {
     "codice": "R-10736",
@@ -18600,6 +20015,16 @@
     "turno": 1
   },
   {
+    "codice": "D-12179",
+    "punteggio": 19.11,
+    "turno": 15
+  },
+  {
+    "codice": "D-18579",
+    "punteggio": 19.11,
+    "turno": 15
+  },
+  {
     "codice": "S-13598",
     "punteggio": 19.11,
     "turno": 4
@@ -18648,6 +20073,16 @@
     "codice": "D-10618",
     "punteggio": 18.93,
     "turno": 13
+  },
+  {
+    "codice": "D-3993",
+    "punteggio": 18.93,
+    "turno": 15
+  },
+  {
+    "codice": "F-24706",
+    "punteggio": 18.93,
+    "turno": 15
   },
   {
     "codice": "R-17047",
@@ -18748,6 +20183,16 @@
     "codice": "P-18067",
     "punteggio": 18.75,
     "turno": 1
+  },
+  {
+    "codice": "D-6740",
+    "punteggio": 18.75,
+    "turno": 15
+  },
+  {
+    "codice": "E-8701",
+    "punteggio": 18.75,
+    "turno": 15
   },
   {
     "codice": "R-6073",
@@ -18873,6 +20318,26 @@
     "codice": "P-5252",
     "punteggio": 18.57,
     "turno": 1
+  },
+  {
+    "codice": "D-9455",
+    "punteggio": 18.57,
+    "turno": 15
+  },
+  {
+    "codice": "F-14622",
+    "punteggio": 18.57,
+    "turno": 15
+  },
+  {
+    "codice": "F-2500",
+    "punteggio": 18.57,
+    "turno": 15
+  },
+  {
+    "codice": "F-9379",
+    "punteggio": 18.57,
+    "turno": 15
   },
   {
     "codice": "S-8600",
@@ -19100,6 +20565,56 @@
     "turno": 1
   },
   {
+    "codice": "D-3658",
+    "punteggio": 18.39,
+    "turno": 15
+  },
+  {
+    "codice": "D-431",
+    "punteggio": 18.39,
+    "turno": 15
+  },
+  {
+    "codice": "E-14446",
+    "punteggio": 18.39,
+    "turno": 15
+  },
+  {
+    "codice": "E-16809",
+    "punteggio": 18.39,
+    "turno": 15
+  },
+  {
+    "codice": "E-6386",
+    "punteggio": 18.39,
+    "turno": 15
+  },
+  {
+    "codice": "F-13011",
+    "punteggio": 18.39,
+    "turno": 15
+  },
+  {
+    "codice": "F-16358",
+    "punteggio": 18.39,
+    "turno": 15
+  },
+  {
+    "codice": "F-3729",
+    "punteggio": 18.39,
+    "turno": 15
+  },
+  {
+    "codice": "F-5372",
+    "punteggio": 18.39,
+    "turno": 15
+  },
+  {
+    "codice": "F-7562",
+    "punteggio": 18.39,
+    "turno": 15
+  },
+  {
     "codice": "R-11950",
     "punteggio": 18.39,
     "turno": 4
@@ -19305,6 +20820,11 @@
     "turno": 11
   },
   {
+    "codice": "E-22840",
+    "punteggio": 18.32,
+    "turno": 15
+  },
+  {
     "codice": "T-16243",
     "punteggio": 18.21,
     "turno": 6
@@ -19373,6 +20893,66 @@
     "codice": "O-24622",
     "punteggio": 18.21,
     "turno": 1
+  },
+  {
+    "codice": "D-11221",
+    "punteggio": 18.21,
+    "turno": 15
+  },
+  {
+    "codice": "D-13945",
+    "punteggio": 18.21,
+    "turno": 15
+  },
+  {
+    "codice": "D-14762",
+    "punteggio": 18.21,
+    "turno": 15
+  },
+  {
+    "codice": "D-16546",
+    "punteggio": 18.21,
+    "turno": 15
+  },
+  {
+    "codice": "D-18098",
+    "punteggio": 18.21,
+    "turno": 15
+  },
+  {
+    "codice": "D-18750",
+    "punteggio": 18.21,
+    "turno": 15
+  },
+  {
+    "codice": "D-22692",
+    "punteggio": 18.21,
+    "turno": 15
+  },
+  {
+    "codice": "D-2882",
+    "punteggio": 18.21,
+    "turno": 15
+  },
+  {
+    "codice": "F-12827",
+    "punteggio": 18.21,
+    "turno": 15
+  },
+  {
+    "codice": "F-14825",
+    "punteggio": 18.21,
+    "turno": 15
+  },
+  {
+    "codice": "F-16907",
+    "punteggio": 18.21,
+    "turno": 15
+  },
+  {
+    "codice": "F-6872",
+    "punteggio": 18.21,
+    "turno": 15
   },
   {
     "codice": "R-13957",
@@ -19828,6 +21408,11 @@
     "codice": "S-22351",
     "punteggio": 18.14,
     "turno": 6
+  },
+  {
+    "codice": "D-20283",
+    "punteggio": 18.14,
+    "turno": 15
   },
   {
     "codice": "C-4769",
@@ -20298,6 +21883,136 @@
     "codice": "P-9006",
     "punteggio": 18.03,
     "turno": 1
+  },
+  {
+    "codice": "D-10410",
+    "punteggio": 18.03,
+    "turno": 15
+  },
+  {
+    "codice": "D-13229",
+    "punteggio": 18.03,
+    "turno": 15
+  },
+  {
+    "codice": "D-13330",
+    "punteggio": 18.03,
+    "turno": 15
+  },
+  {
+    "codice": "D-13819",
+    "punteggio": 18.03,
+    "turno": 15
+  },
+  {
+    "codice": "D-13964",
+    "punteggio": 18.03,
+    "turno": 15
+  },
+  {
+    "codice": "D-21131",
+    "punteggio": 18.03,
+    "turno": 15
+  },
+  {
+    "codice": "D-23826",
+    "punteggio": 18.03,
+    "turno": 15
+  },
+  {
+    "codice": "D-6990",
+    "punteggio": 18.03,
+    "turno": 15
+  },
+  {
+    "codice": "E-10511",
+    "punteggio": 18.03,
+    "turno": 15
+  },
+  {
+    "codice": "E-1803",
+    "punteggio": 18.03,
+    "turno": 15
+  },
+  {
+    "codice": "F-10013",
+    "punteggio": 18.03,
+    "turno": 15
+  },
+  {
+    "codice": "F-11023",
+    "punteggio": 18.03,
+    "turno": 15
+  },
+  {
+    "codice": "F-14173",
+    "punteggio": 18.03,
+    "turno": 15
+  },
+  {
+    "codice": "F-17021",
+    "punteggio": 18.03,
+    "turno": 15
+  },
+  {
+    "codice": "F-17684",
+    "punteggio": 18.03,
+    "turno": 15
+  },
+  {
+    "codice": "F-18039",
+    "punteggio": 18.03,
+    "turno": 15
+  },
+  {
+    "codice": "F-18718",
+    "punteggio": 18.03,
+    "turno": 15
+  },
+  {
+    "codice": "F-19588",
+    "punteggio": 18.03,
+    "turno": 15
+  },
+  {
+    "codice": "F-21281",
+    "punteggio": 18.03,
+    "turno": 15
+  },
+  {
+    "codice": "F-22403",
+    "punteggio": 18.03,
+    "turno": 15
+  },
+  {
+    "codice": "F-23105",
+    "punteggio": 18.03,
+    "turno": 15
+  },
+  {
+    "codice": "F-23476",
+    "punteggio": 18.03,
+    "turno": 15
+  },
+  {
+    "codice": "F-23761",
+    "punteggio": 18.03,
+    "turno": 15
+  },
+  {
+    "codice": "F-2948",
+    "punteggio": 18.03,
+    "turno": 15
+  },
+  {
+    "codice": "F-8455",
+    "punteggio": 18.03,
+    "turno": 15
+  },
+  {
+    "codice": "F-9041",
+    "punteggio": 18.03,
+    "turno": 15
   },
   {
     "codice": "R-14212",
@@ -21840,6 +23555,11 @@
     "turno": 13
   },
   {
+    "codice": "E-15146",
+    "punteggio": 17.96,
+    "turno": 15
+  },
+  {
     "codice": "A-20039",
     "punteggio": 17.96,
     "turno": 8
@@ -21950,6 +23670,11 @@
     "turno": 1
   },
   {
+    "codice": "F-9505",
+    "punteggio": 17.6,
+    "turno": 15
+  },
+  {
     "codice": "R-23483",
     "punteggio": 17.6,
     "turno": 4
@@ -22058,6 +23783,21 @@
     "codice": "P-648",
     "punteggio": 17.42,
     "turno": 1
+  },
+  {
+    "codice": "D-7193",
+    "punteggio": 17.42,
+    "turno": 15
+  },
+  {
+    "codice": "F-3327",
+    "punteggio": 17.42,
+    "turno": 15
+  },
+  {
+    "codice": "F-8317",
+    "punteggio": 17.42,
+    "turno": 15
   },
   {
     "codice": "R-18127",
@@ -22213,6 +23953,16 @@
     "codice": "P-6948",
     "punteggio": 17.24,
     "turno": 1
+  },
+  {
+    "codice": "D-11535",
+    "punteggio": 17.24,
+    "turno": 15
+  },
+  {
+    "codice": "E-321",
+    "punteggio": 17.24,
+    "turno": 15
   },
   {
     "codice": "R-16968",
@@ -22413,6 +24163,26 @@
     "codice": "P-17686",
     "punteggio": 17.06,
     "turno": 1
+  },
+  {
+    "codice": "D-10603",
+    "punteggio": 17.06,
+    "turno": 15
+  },
+  {
+    "codice": "E-15444",
+    "punteggio": 17.06,
+    "turno": 15
+  },
+  {
+    "codice": "F-20507",
+    "punteggio": 17.06,
+    "turno": 15
+  },
+  {
+    "codice": "F-23454",
+    "punteggio": 17.06,
+    "turno": 15
   },
   {
     "codice": "R-18170",
@@ -22908,6 +24678,46 @@
     "codice": "P-24238",
     "punteggio": 16.88,
     "turno": 1
+  },
+  {
+    "codice": "D-17082",
+    "punteggio": 16.88,
+    "turno": 15
+  },
+  {
+    "codice": "D-20935",
+    "punteggio": 16.88,
+    "turno": 15
+  },
+  {
+    "codice": "D-2280",
+    "punteggio": 16.88,
+    "turno": 15
+  },
+  {
+    "codice": "E-17871",
+    "punteggio": 16.88,
+    "turno": 15
+  },
+  {
+    "codice": "F-273",
+    "punteggio": 16.88,
+    "turno": 15
+  },
+  {
+    "codice": "F-2983",
+    "punteggio": 16.88,
+    "turno": 15
+  },
+  {
+    "codice": "F-4205",
+    "punteggio": 16.88,
+    "turno": 15
+  },
+  {
+    "codice": "F-616",
+    "punteggio": 16.88,
+    "turno": 15
   },
   {
     "codice": "R-10079",
@@ -23788,6 +25598,111 @@
     "codice": "P-7910",
     "punteggio": 16.7,
     "turno": 1
+  },
+  {
+    "codice": "D-10179",
+    "punteggio": 16.7,
+    "turno": 15
+  },
+  {
+    "codice": "D-18618",
+    "punteggio": 16.7,
+    "turno": 15
+  },
+  {
+    "codice": "D-4538",
+    "punteggio": 16.7,
+    "turno": 15
+  },
+  {
+    "codice": "D-7445",
+    "punteggio": 16.7,
+    "turno": 15
+  },
+  {
+    "codice": "D-8097",
+    "punteggio": 16.7,
+    "turno": 15
+  },
+  {
+    "codice": "E-1104",
+    "punteggio": 16.7,
+    "turno": 15
+  },
+  {
+    "codice": "E-11275",
+    "punteggio": 16.7,
+    "turno": 15
+  },
+  {
+    "codice": "E-14664",
+    "punteggio": 16.7,
+    "turno": 15
+  },
+  {
+    "codice": "E-21810",
+    "punteggio": 16.7,
+    "turno": 15
+  },
+  {
+    "codice": "E-3640",
+    "punteggio": 16.7,
+    "turno": 15
+  },
+  {
+    "codice": "F-11288",
+    "punteggio": 16.7,
+    "turno": 15
+  },
+  {
+    "codice": "F-12680",
+    "punteggio": 16.7,
+    "turno": 15
+  },
+  {
+    "codice": "F-13713",
+    "punteggio": 16.7,
+    "turno": 15
+  },
+  {
+    "codice": "F-19316",
+    "punteggio": 16.7,
+    "turno": 15
+  },
+  {
+    "codice": "F-4138",
+    "punteggio": 16.7,
+    "turno": 15
+  },
+  {
+    "codice": "F-4912",
+    "punteggio": 16.7,
+    "turno": 15
+  },
+  {
+    "codice": "F-7481",
+    "punteggio": 16.7,
+    "turno": 15
+  },
+  {
+    "codice": "F-7836",
+    "punteggio": 16.7,
+    "turno": 15
+  },
+  {
+    "codice": "F-9651",
+    "punteggio": 16.7,
+    "turno": 15
+  },
+  {
+    "codice": "F-9815",
+    "punteggio": 16.7,
+    "turno": 15
+  },
+  {
+    "codice": "F-9942",
+    "punteggio": 16.7,
+    "turno": 15
   },
   {
     "codice": "R-15054",
@@ -25645,6 +27560,11 @@
     "turno": 1
   },
   {
+    "codice": "E-10209",
+    "punteggio": 16.45,
+    "turno": 15
+  },
+  {
     "codice": "R-19503",
     "punteggio": 16.45,
     "turno": 4
@@ -26025,6 +27945,36 @@
     "turno": 1
   },
   {
+    "codice": "D-13223",
+    "punteggio": 15.91,
+    "turno": 15
+  },
+  {
+    "codice": "D-4322",
+    "punteggio": 15.91,
+    "turno": 15
+  },
+  {
+    "codice": "D-553",
+    "punteggio": 15.91,
+    "turno": 15
+  },
+  {
+    "codice": "F-11296",
+    "punteggio": 15.91,
+    "turno": 15
+  },
+  {
+    "codice": "F-20249",
+    "punteggio": 15.91,
+    "turno": 15
+  },
+  {
+    "codice": "F-21714",
+    "punteggio": 15.91,
+    "turno": 15
+  },
+  {
     "codice": "S-14774",
     "punteggio": 15.91,
     "turno": 4
@@ -26230,6 +28180,56 @@
     "turno": 1
   },
   {
+    "codice": "D-10577",
+    "punteggio": 15.73,
+    "turno": 15
+  },
+  {
+    "codice": "D-13583",
+    "punteggio": 15.73,
+    "turno": 15
+  },
+  {
+    "codice": "D-16994",
+    "punteggio": 15.73,
+    "turno": 15
+  },
+  {
+    "codice": "D-24782",
+    "punteggio": 15.73,
+    "turno": 15
+  },
+  {
+    "codice": "D-5778",
+    "punteggio": 15.73,
+    "turno": 15
+  },
+  {
+    "codice": "E-12782",
+    "punteggio": 15.73,
+    "turno": 15
+  },
+  {
+    "codice": "E-6494",
+    "punteggio": 15.73,
+    "turno": 15
+  },
+  {
+    "codice": "F-10738",
+    "punteggio": 15.73,
+    "turno": 15
+  },
+  {
+    "codice": "F-17569",
+    "punteggio": 15.73,
+    "turno": 15
+  },
+  {
+    "codice": "F-8114",
+    "punteggio": 15.73,
+    "turno": 15
+  },
+  {
     "codice": "P-3241",
     "punteggio": 15.73,
     "turno": 2
@@ -26425,6 +28425,11 @@
     "turno": 1
   },
   {
+    "codice": "E-20706",
+    "punteggio": 15.66,
+    "turno": 15
+  },
+  {
     "codice": "S-14291",
     "punteggio": 15.55,
     "turno": 6
@@ -26513,6 +28518,46 @@
     "codice": "N-712",
     "punteggio": 15.55,
     "turno": 1
+  },
+  {
+    "codice": "D-14821",
+    "punteggio": 15.55,
+    "turno": 15
+  },
+  {
+    "codice": "D-15065",
+    "punteggio": 15.55,
+    "turno": 15
+  },
+  {
+    "codice": "D-18643",
+    "punteggio": 15.55,
+    "turno": 15
+  },
+  {
+    "codice": "D-2969",
+    "punteggio": 15.55,
+    "turno": 15
+  },
+  {
+    "codice": "E-21673",
+    "punteggio": 15.55,
+    "turno": 15
+  },
+  {
+    "codice": "E-5260",
+    "punteggio": 15.55,
+    "turno": 15
+  },
+  {
+    "codice": "F-11629",
+    "punteggio": 15.55,
+    "turno": 15
+  },
+  {
+    "codice": "F-7312",
+    "punteggio": 15.55,
+    "turno": 15
   },
   {
     "codice": "R-14920",
@@ -27483,6 +29528,111 @@
     "codice": "P-8491",
     "punteggio": 15.37,
     "turno": 1
+  },
+  {
+    "codice": "D-10878",
+    "punteggio": 15.37,
+    "turno": 15
+  },
+  {
+    "codice": "D-16343",
+    "punteggio": 15.37,
+    "turno": 15
+  },
+  {
+    "codice": "D-20835",
+    "punteggio": 15.37,
+    "turno": 15
+  },
+  {
+    "codice": "D-23079",
+    "punteggio": 15.37,
+    "turno": 15
+  },
+  {
+    "codice": "D-3653",
+    "punteggio": 15.37,
+    "turno": 15
+  },
+  {
+    "codice": "D-432",
+    "punteggio": 15.37,
+    "turno": 15
+  },
+  {
+    "codice": "D-4505",
+    "punteggio": 15.37,
+    "turno": 15
+  },
+  {
+    "codice": "D-6015",
+    "punteggio": 15.37,
+    "turno": 15
+  },
+  {
+    "codice": "E-17511",
+    "punteggio": 15.37,
+    "turno": 15
+  },
+  {
+    "codice": "E-21663",
+    "punteggio": 15.37,
+    "turno": 15
+  },
+  {
+    "codice": "F-11278",
+    "punteggio": 15.37,
+    "turno": 15
+  },
+  {
+    "codice": "F-12417",
+    "punteggio": 15.37,
+    "turno": 15
+  },
+  {
+    "codice": "F-15820",
+    "punteggio": 15.37,
+    "turno": 15
+  },
+  {
+    "codice": "F-19945",
+    "punteggio": 15.37,
+    "turno": 15
+  },
+  {
+    "codice": "F-23485",
+    "punteggio": 15.37,
+    "turno": 15
+  },
+  {
+    "codice": "F-24330",
+    "punteggio": 15.37,
+    "turno": 15
+  },
+  {
+    "codice": "F-4732",
+    "punteggio": 15.37,
+    "turno": 15
+  },
+  {
+    "codice": "F-5507",
+    "punteggio": 15.37,
+    "turno": 15
+  },
+  {
+    "codice": "F-6249",
+    "punteggio": 15.37,
+    "turno": 15
+  },
+  {
+    "codice": "F-6335",
+    "punteggio": 15.37,
+    "turno": 15
+  },
+  {
+    "codice": "F-8023",
+    "punteggio": 15.37,
+    "turno": 15
   },
   {
     "codice": "R-11683",
@@ -29105,6 +31255,11 @@
     "turno": 1
   },
   {
+    "codice": "E-3851",
+    "punteggio": 15.3,
+    "turno": 15
+  },
+  {
     "codice": "A-4551",
     "punteggio": 15.3,
     "turno": 8
@@ -29173,6 +31328,31 @@
     "codice": "P-6926",
     "punteggio": 15.12,
     "turno": 1
+  },
+  {
+    "codice": "D-21565",
+    "punteggio": 15.12,
+    "turno": 15
+  },
+  {
+    "codice": "E-4354",
+    "punteggio": 15.12,
+    "turno": 15
+  },
+  {
+    "codice": "F-12441",
+    "punteggio": 15.12,
+    "turno": 15
+  },
+  {
+    "codice": "F-14184",
+    "punteggio": 15.12,
+    "turno": 15
+  },
+  {
+    "codice": "F-1477",
+    "punteggio": 15.12,
+    "turno": 15
   },
   {
     "codice": "S-5521",
@@ -29385,6 +31565,21 @@
     "turno": 1
   },
   {
+    "codice": "D-9284",
+    "punteggio": 14.76,
+    "turno": 15
+  },
+  {
+    "codice": "F-14926",
+    "punteggio": 14.76,
+    "turno": 15
+  },
+  {
+    "codice": "F-8107",
+    "punteggio": 14.76,
+    "turno": 15
+  },
+  {
     "codice": "S-2730",
     "punteggio": 14.76,
     "turno": 4
@@ -29518,6 +31713,36 @@
     "codice": "N-824",
     "punteggio": 14.58,
     "turno": 1
+  },
+  {
+    "codice": "D-11141",
+    "punteggio": 14.58,
+    "turno": 15
+  },
+  {
+    "codice": "D-20735",
+    "punteggio": 14.58,
+    "turno": 15
+  },
+  {
+    "codice": "D-21734",
+    "punteggio": 14.58,
+    "turno": 15
+  },
+  {
+    "codice": "D-9619",
+    "punteggio": 14.58,
+    "turno": 15
+  },
+  {
+    "codice": "F-14150",
+    "punteggio": 14.58,
+    "turno": 15
+  },
+  {
+    "codice": "F-9404",
+    "punteggio": 14.58,
+    "turno": 15
   },
   {
     "codice": "R-16176",
@@ -29758,6 +31983,21 @@
     "codice": "N-18348",
     "punteggio": 14.4,
     "turno": 1
+  },
+  {
+    "codice": "D-14176",
+    "punteggio": 14.4,
+    "turno": 15
+  },
+  {
+    "codice": "D-21608",
+    "punteggio": 14.4,
+    "turno": 15
+  },
+  {
+    "codice": "E-3831",
+    "punteggio": 14.4,
+    "turno": 15
   },
   {
     "codice": "R-10478",
@@ -30183,6 +32423,31 @@
     "codice": "P-367",
     "punteggio": 14.22,
     "turno": 1
+  },
+  {
+    "codice": "D-24370",
+    "punteggio": 14.22,
+    "turno": 15
+  },
+  {
+    "codice": "D-481",
+    "punteggio": 14.22,
+    "turno": 15
+  },
+  {
+    "codice": "D-5171",
+    "punteggio": 14.22,
+    "turno": 15
+  },
+  {
+    "codice": "E-20881",
+    "punteggio": 14.22,
+    "turno": 15
+  },
+  {
+    "codice": "F-21514",
+    "punteggio": 14.22,
+    "turno": 15
   },
   {
     "codice": "R-15888",
@@ -30983,6 +33248,91 @@
     "codice": "P-9324",
     "punteggio": 14.04,
     "turno": 1
+  },
+  {
+    "codice": "D-11674",
+    "punteggio": 14.04,
+    "turno": 15
+  },
+  {
+    "codice": "D-11948",
+    "punteggio": 14.04,
+    "turno": 15
+  },
+  {
+    "codice": "D-1688",
+    "punteggio": 14.04,
+    "turno": 15
+  },
+  {
+    "codice": "D-19752",
+    "punteggio": 14.04,
+    "turno": 15
+  },
+  {
+    "codice": "D-21560",
+    "punteggio": 14.04,
+    "turno": 15
+  },
+  {
+    "codice": "D-5717",
+    "punteggio": 14.04,
+    "turno": 15
+  },
+  {
+    "codice": "D-7937",
+    "punteggio": 14.04,
+    "turno": 15
+  },
+  {
+    "codice": "E-18777",
+    "punteggio": 14.04,
+    "turno": 15
+  },
+  {
+    "codice": "F-14454",
+    "punteggio": 14.04,
+    "turno": 15
+  },
+  {
+    "codice": "F-18366",
+    "punteggio": 14.04,
+    "turno": 15
+  },
+  {
+    "codice": "F-19781",
+    "punteggio": 14.04,
+    "turno": 15
+  },
+  {
+    "codice": "F-22420",
+    "punteggio": 14.04,
+    "turno": 15
+  },
+  {
+    "codice": "F-22786",
+    "punteggio": 14.04,
+    "turno": 15
+  },
+  {
+    "codice": "F-2707",
+    "punteggio": 14.04,
+    "turno": 15
+  },
+  {
+    "codice": "F-336",
+    "punteggio": 14.04,
+    "turno": 15
+  },
+  {
+    "codice": "F-4645",
+    "punteggio": 14.04,
+    "turno": 15
+  },
+  {
+    "codice": "F-9612",
+    "punteggio": 14.04,
+    "turno": 15
   },
   {
     "codice": "R-10427",
@@ -32690,6 +35040,16 @@
     "turno": 13
   },
   {
+    "codice": "F-21415",
+    "punteggio": 13.97,
+    "turno": 15
+  },
+  {
+    "codice": "F-21509",
+    "punteggio": 13.97,
+    "turno": 15
+  },
+  {
     "codice": "R-18542",
     "punteggio": 13.97,
     "turno": 4
@@ -32818,6 +35178,26 @@
     "codice": "N-17452",
     "punteggio": 13.61,
     "turno": 1
+  },
+  {
+    "codice": "D-7185",
+    "punteggio": 13.61,
+    "turno": 15
+  },
+  {
+    "codice": "E-20607",
+    "punteggio": 13.61,
+    "turno": 15
+  },
+  {
+    "codice": "F-16296",
+    "punteggio": 13.61,
+    "turno": 15
+  },
+  {
+    "codice": "F-22008",
+    "punteggio": 13.61,
+    "turno": 15
   },
   {
     "codice": "R-11935",
@@ -33060,6 +35440,21 @@
     "turno": 1
   },
   {
+    "codice": "D-18261",
+    "punteggio": 13.25,
+    "turno": 15
+  },
+  {
+    "codice": "E-9367",
+    "punteggio": 13.25,
+    "turno": 15
+  },
+  {
+    "codice": "F-848",
+    "punteggio": 13.25,
+    "turno": 15
+  },
+  {
     "codice": "P-15020",
     "punteggio": 13.25,
     "turno": 2
@@ -33300,6 +35695,11 @@
     "turno": 1
   },
   {
+    "codice": "F-5283",
+    "punteggio": 13.18,
+    "turno": 15
+  },
+  {
     "codice": "B-14526",
     "punteggio": 13.18,
     "turno": 9
@@ -33353,6 +35753,16 @@
     "codice": "P-17186",
     "punteggio": 13.07,
     "turno": 1
+  },
+  {
+    "codice": "E-10337",
+    "punteggio": 13.07,
+    "turno": 15
+  },
+  {
+    "codice": "F-18994",
+    "punteggio": 13.07,
+    "turno": 15
   },
   {
     "codice": "R-5233",
@@ -33700,6 +36110,41 @@
     "turno": 1
   },
   {
+    "codice": "D-1510",
+    "punteggio": 12.89,
+    "turno": 15
+  },
+  {
+    "codice": "D-15748",
+    "punteggio": 12.89,
+    "turno": 15
+  },
+  {
+    "codice": "D-1619",
+    "punteggio": 12.89,
+    "turno": 15
+  },
+  {
+    "codice": "D-19183",
+    "punteggio": 12.89,
+    "turno": 15
+  },
+  {
+    "codice": "F-15245",
+    "punteggio": 12.89,
+    "turno": 15
+  },
+  {
+    "codice": "F-3271",
+    "punteggio": 12.89,
+    "turno": 15
+  },
+  {
+    "codice": "F-3548",
+    "punteggio": 12.89,
+    "turno": 15
+  },
+  {
     "codice": "R-10464",
     "punteggio": 12.89,
     "turno": 4
@@ -34038,6 +36483,11 @@
     "codice": "D-5366",
     "punteggio": 12.82,
     "turno": 13
+  },
+  {
+    "codice": "F-4150",
+    "punteggio": 12.82,
+    "turno": 15
   },
   {
     "codice": "P-17803",
@@ -34413,6 +36863,116 @@
     "codice": "P-9818",
     "punteggio": 12.71,
     "turno": 1
+  },
+  {
+    "codice": "D-11388",
+    "punteggio": 12.71,
+    "turno": 15
+  },
+  {
+    "codice": "D-1362",
+    "punteggio": 12.71,
+    "turno": 15
+  },
+  {
+    "codice": "D-13857",
+    "punteggio": 12.71,
+    "turno": 15
+  },
+  {
+    "codice": "D-14569",
+    "punteggio": 12.71,
+    "turno": 15
+  },
+  {
+    "codice": "D-16676",
+    "punteggio": 12.71,
+    "turno": 15
+  },
+  {
+    "codice": "D-16887",
+    "punteggio": 12.71,
+    "turno": 15
+  },
+  {
+    "codice": "D-19364",
+    "punteggio": 12.71,
+    "turno": 15
+  },
+  {
+    "codice": "D-19731",
+    "punteggio": 12.71,
+    "turno": 15
+  },
+  {
+    "codice": "D-20969",
+    "punteggio": 12.71,
+    "turno": 15
+  },
+  {
+    "codice": "D-21024",
+    "punteggio": 12.71,
+    "turno": 15
+  },
+  {
+    "codice": "D-23550",
+    "punteggio": 12.71,
+    "turno": 15
+  },
+  {
+    "codice": "D-2391",
+    "punteggio": 12.71,
+    "turno": 15
+  },
+  {
+    "codice": "D-5941",
+    "punteggio": 12.71,
+    "turno": 15
+  },
+  {
+    "codice": "D-971",
+    "punteggio": 12.71,
+    "turno": 15
+  },
+  {
+    "codice": "E-10776",
+    "punteggio": 12.71,
+    "turno": 15
+  },
+  {
+    "codice": "E-20585",
+    "punteggio": 12.71,
+    "turno": 15
+  },
+  {
+    "codice": "E-21446",
+    "punteggio": 12.71,
+    "turno": 15
+  },
+  {
+    "codice": "F-17940",
+    "punteggio": 12.71,
+    "turno": 15
+  },
+  {
+    "codice": "F-18422",
+    "punteggio": 12.71,
+    "turno": 15
+  },
+  {
+    "codice": "F-18890",
+    "punteggio": 12.71,
+    "turno": 15
+  },
+  {
+    "codice": "F-19379",
+    "punteggio": 12.71,
+    "turno": 15
+  },
+  {
+    "codice": "F-24217",
+    "punteggio": 12.71,
+    "turno": 15
   },
   {
     "codice": "R-11725",
@@ -35855,6 +38415,11 @@
     "turno": 1
   },
   {
+    "codice": "F-16323",
+    "punteggio": 12.64,
+    "turno": 15
+  },
+  {
     "codice": "R-19774",
     "punteggio": 12.64,
     "turno": 4
@@ -35913,6 +38478,11 @@
     "codice": "D-692",
     "punteggio": 12.46,
     "turno": 13
+  },
+  {
+    "codice": "D-18482",
+    "punteggio": 12.46,
+    "turno": 15
   },
   {
     "codice": "R-6842",
@@ -36160,6 +38730,21 @@
     "turno": 1
   },
   {
+    "codice": "D-13879",
+    "punteggio": 12.1,
+    "turno": 15
+  },
+  {
+    "codice": "D-18891",
+    "punteggio": 12.1,
+    "turno": 15
+  },
+  {
+    "codice": "D-21464",
+    "punteggio": 12.1,
+    "turno": 15
+  },
+  {
     "codice": "P-11015",
     "punteggio": 12.1,
     "turno": 2
@@ -36303,6 +38888,21 @@
     "codice": "N-20741",
     "punteggio": 11.92,
     "turno": 1
+  },
+  {
+    "codice": "D-23712",
+    "punteggio": 11.92,
+    "turno": 15
+  },
+  {
+    "codice": "E-10571",
+    "punteggio": 11.92,
+    "turno": 15
+  },
+  {
+    "codice": "F-9784",
+    "punteggio": 11.92,
+    "turno": 15
   },
   {
     "codice": "R-11499",
@@ -36460,6 +39060,11 @@
     "turno": 11
   },
   {
+    "codice": "D-4651",
+    "punteggio": 11.85,
+    "turno": 15
+  },
+  {
     "codice": "D-10931",
     "punteggio": 11.85,
     "turno": 14
@@ -36533,6 +39138,21 @@
     "codice": "P-13789",
     "punteggio": 11.74,
     "turno": 1
+  },
+  {
+    "codice": "D-4926",
+    "punteggio": 11.74,
+    "turno": 15
+  },
+  {
+    "codice": "E-22401",
+    "punteggio": 11.74,
+    "turno": 15
+  },
+  {
+    "codice": "F-15326",
+    "punteggio": 11.74,
+    "turno": 15
   },
   {
     "codice": "R-7131",
@@ -36775,6 +39395,11 @@
     "turno": 13
   },
   {
+    "codice": "D-19650",
+    "punteggio": 11.67,
+    "turno": 15
+  },
+  {
     "codice": "U-21676",
     "punteggio": 11.67,
     "turno": 7
@@ -36863,6 +39488,36 @@
     "codice": "P-8641",
     "punteggio": 11.56,
     "turno": 1
+  },
+  {
+    "codice": "D-7496",
+    "punteggio": 11.56,
+    "turno": 15
+  },
+  {
+    "codice": "E-11075",
+    "punteggio": 11.56,
+    "turno": 15
+  },
+  {
+    "codice": "E-8288",
+    "punteggio": 11.56,
+    "turno": 15
+  },
+  {
+    "codice": "E-9761",
+    "punteggio": 11.56,
+    "turno": 15
+  },
+  {
+    "codice": "F-10718",
+    "punteggio": 11.56,
+    "turno": 15
+  },
+  {
+    "codice": "F-17451",
+    "punteggio": 11.56,
+    "turno": 15
   },
   {
     "codice": "R-11374",
@@ -37163,6 +39818,11 @@
     "codice": "O-7319",
     "punteggio": 11.49,
     "turno": 1
+  },
+  {
+    "codice": "D-6035",
+    "punteggio": 11.49,
+    "turno": 15
   },
   {
     "codice": "R-23053",
@@ -37548,6 +40208,86 @@
     "codice": "P-4475",
     "punteggio": 11.38,
     "turno": 1
+  },
+  {
+    "codice": "D-1426",
+    "punteggio": 11.38,
+    "turno": 15
+  },
+  {
+    "codice": "D-14384",
+    "punteggio": 11.38,
+    "turno": 15
+  },
+  {
+    "codice": "D-18254",
+    "punteggio": 11.38,
+    "turno": 15
+  },
+  {
+    "codice": "D-20730",
+    "punteggio": 11.38,
+    "turno": 15
+  },
+  {
+    "codice": "D-21778",
+    "punteggio": 11.38,
+    "turno": 15
+  },
+  {
+    "codice": "D-24698",
+    "punteggio": 11.38,
+    "turno": 15
+  },
+  {
+    "codice": "D-2579",
+    "punteggio": 11.38,
+    "turno": 15
+  },
+  {
+    "codice": "D-7879",
+    "punteggio": 11.38,
+    "turno": 15
+  },
+  {
+    "codice": "E-20808",
+    "punteggio": 11.38,
+    "turno": 15
+  },
+  {
+    "codice": "E-21491",
+    "punteggio": 11.38,
+    "turno": 15
+  },
+  {
+    "codice": "E-6562",
+    "punteggio": 11.38,
+    "turno": 15
+  },
+  {
+    "codice": "F-1330",
+    "punteggio": 11.38,
+    "turno": 15
+  },
+  {
+    "codice": "F-1618",
+    "punteggio": 11.38,
+    "turno": 15
+  },
+  {
+    "codice": "F-16988",
+    "punteggio": 11.38,
+    "turno": 15
+  },
+  {
+    "codice": "F-19242",
+    "punteggio": 11.38,
+    "turno": 15
+  },
+  {
+    "codice": "F-266",
+    "punteggio": 11.38,
+    "turno": 15
   },
   {
     "codice": "R-11785",
@@ -38970,6 +41710,11 @@
     "turno": 1
   },
   {
+    "codice": "E-1304",
+    "punteggio": 11.31,
+    "turno": 15
+  },
+  {
     "codice": "R-8409",
     "punteggio": 11.31,
     "turno": 4
@@ -39120,6 +41865,11 @@
     "turno": 7
   },
   {
+    "codice": "D-11420",
+    "punteggio": 10.95,
+    "turno": 15
+  },
+  {
     "codice": "R-17934",
     "punteggio": 10.95,
     "turno": 4
@@ -39210,6 +41960,11 @@
     "turno": 1
   },
   {
+    "codice": "D-16916",
+    "punteggio": 10.88,
+    "turno": 15
+  },
+  {
     "codice": "R-277",
     "punteggio": 10.88,
     "turno": 4
@@ -39228,6 +41983,16 @@
     "codice": "N-19108",
     "punteggio": 10.77,
     "turno": 1
+  },
+  {
+    "codice": "D-18402",
+    "punteggio": 10.77,
+    "turno": 15
+  },
+  {
+    "codice": "E-22838",
+    "punteggio": 10.77,
+    "turno": 15
   },
   {
     "codice": "R-22929",
@@ -39375,6 +42140,16 @@
     "turno": 1
   },
   {
+    "codice": "D-18007",
+    "punteggio": 10.59,
+    "turno": 15
+  },
+  {
+    "codice": "E-20900",
+    "punteggio": 10.59,
+    "turno": 15
+  },
+  {
     "codice": "R-4517",
     "punteggio": 10.59,
     "turno": 4
@@ -39500,6 +42275,11 @@
     "turno": 3
   },
   {
+    "codice": "D-21494",
+    "punteggio": 10.52,
+    "turno": 15
+  },
+  {
     "codice": "Z-5289",
     "punteggio": 10.52,
     "turno": 7
@@ -39568,6 +42348,11 @@
     "codice": "P-9196",
     "punteggio": 10.41,
     "turno": 1
+  },
+  {
+    "codice": "F-14849",
+    "punteggio": 10.41,
+    "turno": 15
   },
   {
     "codice": "R-17472",
@@ -39833,6 +42618,46 @@
     "codice": "P-22634",
     "punteggio": 10.23,
     "turno": 1
+  },
+  {
+    "codice": "D-1210",
+    "punteggio": 10.23,
+    "turno": 15
+  },
+  {
+    "codice": "D-3887",
+    "punteggio": 10.23,
+    "turno": 15
+  },
+  {
+    "codice": "D-6991",
+    "punteggio": 10.23,
+    "turno": 15
+  },
+  {
+    "codice": "D-8812",
+    "punteggio": 10.23,
+    "turno": 15
+  },
+  {
+    "codice": "E-14224",
+    "punteggio": 10.23,
+    "turno": 15
+  },
+  {
+    "codice": "F-16006",
+    "punteggio": 10.23,
+    "turno": 15
+  },
+  {
+    "codice": "F-19780",
+    "punteggio": 10.23,
+    "turno": 15
+  },
+  {
+    "codice": "F-21890",
+    "punteggio": 10.23,
+    "turno": 15
   },
   {
     "codice": "R-11054",
@@ -40103,6 +42928,16 @@
     "codice": "N-3850",
     "punteggio": 10.16,
     "turno": 1
+  },
+  {
+    "codice": "F-13283",
+    "punteggio": 10.16,
+    "turno": 15
+  },
+  {
+    "codice": "F-15623",
+    "punteggio": 10.16,
+    "turno": 15
   },
   {
     "codice": "S-24754",
@@ -40418,6 +43253,71 @@
     "codice": "P-904",
     "punteggio": 10.05,
     "turno": 1
+  },
+  {
+    "codice": "D-14206",
+    "punteggio": 10.05,
+    "turno": 15
+  },
+  {
+    "codice": "D-19244",
+    "punteggio": 10.05,
+    "turno": 15
+  },
+  {
+    "codice": "D-20299",
+    "punteggio": 10.05,
+    "turno": 15
+  },
+  {
+    "codice": "D-23480",
+    "punteggio": 10.05,
+    "turno": 15
+  },
+  {
+    "codice": "D-24464",
+    "punteggio": 10.05,
+    "turno": 15
+  },
+  {
+    "codice": "D-4020",
+    "punteggio": 10.05,
+    "turno": 15
+  },
+  {
+    "codice": "E-1216",
+    "punteggio": 10.05,
+    "turno": 15
+  },
+  {
+    "codice": "E-15577",
+    "punteggio": 10.05,
+    "turno": 15
+  },
+  {
+    "codice": "E-9568",
+    "punteggio": 10.05,
+    "turno": 15
+  },
+  {
+    "codice": "F-13442",
+    "punteggio": 10.05,
+    "turno": 15
+  },
+  {
+    "codice": "F-13540",
+    "punteggio": 10.05,
+    "turno": 15
+  },
+  {
+    "codice": "F-16269",
+    "punteggio": 10.05,
+    "turno": 15
+  },
+  {
+    "codice": "F-23701",
+    "punteggio": 10.05,
+    "turno": 15
   },
   {
     "codice": "R-1230",
@@ -41670,6 +44570,11 @@
     "turno": 1
   },
   {
+    "codice": "D-17889",
+    "punteggio": 9.98,
+    "turno": 15
+  },
+  {
     "codice": "P-20769",
     "punteggio": 9.98,
     "turno": 2
@@ -41703,6 +44608,11 @@
     "codice": "P-21765",
     "punteggio": 9.8,
     "turno": 1
+  },
+  {
+    "codice": "E-17161",
+    "punteggio": 9.8,
+    "turno": 15
   },
   {
     "codice": "S-11764",
@@ -41818,6 +44728,31 @@
     "codice": "O-8606",
     "punteggio": 9.62,
     "turno": 1
+  },
+  {
+    "codice": "D-18958",
+    "punteggio": 9.62,
+    "turno": 15
+  },
+  {
+    "codice": "D-24550",
+    "punteggio": 9.62,
+    "turno": 15
+  },
+  {
+    "codice": "D-7973",
+    "punteggio": 9.62,
+    "turno": 15
+  },
+  {
+    "codice": "E-21394",
+    "punteggio": 9.62,
+    "turno": 15
+  },
+  {
+    "codice": "F-9035",
+    "punteggio": 9.62,
+    "turno": 15
   },
   {
     "codice": "P-14512",
@@ -42035,6 +44970,21 @@
     "turno": 1
   },
   {
+    "codice": "D-5235",
+    "punteggio": 9.26,
+    "turno": 15
+  },
+  {
+    "codice": "D-8811",
+    "punteggio": 9.26,
+    "turno": 15
+  },
+  {
+    "codice": "D-9432",
+    "punteggio": 9.26,
+    "turno": 15
+  },
+  {
     "codice": "R-8006",
     "punteggio": 9.26,
     "turno": 4
@@ -42140,6 +45090,11 @@
     "turno": 11
   },
   {
+    "codice": "E-7959",
+    "punteggio": 9.19,
+    "turno": 15
+  },
+  {
     "codice": "Z-9548",
     "punteggio": 9.19,
     "turno": 7
@@ -42178,6 +45133,21 @@
     "codice": "P-5299",
     "punteggio": 9.08,
     "turno": 1
+  },
+  {
+    "codice": "D-12895",
+    "punteggio": 9.08,
+    "turno": 15
+  },
+  {
+    "codice": "D-21641",
+    "punteggio": 9.08,
+    "turno": 15
+  },
+  {
+    "codice": "F-4333",
+    "punteggio": 9.08,
+    "turno": 15
   },
   {
     "codice": "R-14681",
@@ -42300,6 +45270,11 @@
     "turno": 6
   },
   {
+    "codice": "F-24565",
+    "punteggio": 9.01,
+    "turno": 15
+  },
+  {
     "codice": "P-16352",
     "punteggio": 9.01,
     "turno": 2
@@ -42348,6 +45323,16 @@
     "codice": "P-11582",
     "punteggio": 8.9,
     "turno": 1
+  },
+  {
+    "codice": "D-19573",
+    "punteggio": 8.9,
+    "turno": 15
+  },
+  {
+    "codice": "F-8855",
+    "punteggio": 8.9,
+    "turno": 15
   },
   {
     "codice": "R-21129",
@@ -42605,6 +45590,11 @@
     "turno": 1
   },
   {
+    "codice": "D-6442",
+    "punteggio": 8.76,
+    "turno": 15
+  },
+  {
     "codice": "S-1237",
     "punteggio": 8.72,
     "turno": 6
@@ -42823,6 +45813,46 @@
     "codice": "P-9464",
     "punteggio": 8.72,
     "turno": 1
+  },
+  {
+    "codice": "D-17873",
+    "punteggio": 8.72,
+    "turno": 15
+  },
+  {
+    "codice": "D-516",
+    "punteggio": 8.72,
+    "turno": 15
+  },
+  {
+    "codice": "D-9111",
+    "punteggio": 8.72,
+    "turno": 15
+  },
+  {
+    "codice": "F-14363",
+    "punteggio": 8.72,
+    "turno": 15
+  },
+  {
+    "codice": "F-5490",
+    "punteggio": 8.72,
+    "turno": 15
+  },
+  {
+    "codice": "F-7021",
+    "punteggio": 8.72,
+    "turno": 15
+  },
+  {
+    "codice": "F-7304",
+    "punteggio": 8.72,
+    "turno": 15
+  },
+  {
+    "codice": "F-8713",
+    "punteggio": 8.72,
+    "turno": 15
   },
   {
     "codice": "R-11264",
@@ -43815,6 +46845,11 @@
     "turno": 6
   },
   {
+    "codice": "F-10366",
+    "punteggio": 8.29,
+    "turno": 15
+  },
+  {
     "codice": "R-12641",
     "punteggio": 8.29,
     "turno": 4
@@ -43918,6 +46953,11 @@
     "codice": "P-17943",
     "punteggio": 8.11,
     "turno": 1
+  },
+  {
+    "codice": "D-10322",
+    "punteggio": 8.11,
+    "turno": 15
   },
   {
     "codice": "R-12614",
@@ -44055,6 +47095,11 @@
     "turno": 1
   },
   {
+    "codice": "F-6425",
+    "punteggio": 7.93,
+    "turno": 15
+  },
+  {
     "codice": "S-660",
     "punteggio": 7.93,
     "turno": 4
@@ -44180,6 +47225,11 @@
     "turno": 13
   },
   {
+    "codice": "D-1951",
+    "punteggio": 7.75,
+    "turno": 15
+  },
+  {
     "codice": "S-8711",
     "punteggio": 7.75,
     "turno": 4
@@ -44290,6 +47340,11 @@
     "turno": 6
   },
   {
+    "codice": "E-19187",
+    "punteggio": 7.68,
+    "turno": 15
+  },
+  {
     "codice": "C-18095",
     "punteggio": 7.68,
     "turno": 12
@@ -44303,6 +47358,16 @@
     "codice": "N-17396",
     "punteggio": 7.57,
     "turno": 1
+  },
+  {
+    "codice": "D-9488",
+    "punteggio": 7.57,
+    "turno": 15
+  },
+  {
+    "codice": "F-5161",
+    "punteggio": 7.57,
+    "turno": 15
   },
   {
     "codice": "R-2330",
@@ -44628,6 +47693,81 @@
     "codice": "P-7810",
     "punteggio": 7.39,
     "turno": 1
+  },
+  {
+    "codice": "D-10128",
+    "punteggio": 7.39,
+    "turno": 15
+  },
+  {
+    "codice": "D-1459",
+    "punteggio": 7.39,
+    "turno": 15
+  },
+  {
+    "codice": "D-15179",
+    "punteggio": 7.39,
+    "turno": 15
+  },
+  {
+    "codice": "D-15959",
+    "punteggio": 7.39,
+    "turno": 15
+  },
+  {
+    "codice": "D-18105",
+    "punteggio": 7.39,
+    "turno": 15
+  },
+  {
+    "codice": "D-21695",
+    "punteggio": 7.39,
+    "turno": 15
+  },
+  {
+    "codice": "D-22846",
+    "punteggio": 7.39,
+    "turno": 15
+  },
+  {
+    "codice": "D-7042",
+    "punteggio": 7.39,
+    "turno": 15
+  },
+  {
+    "codice": "E-14313",
+    "punteggio": 7.39,
+    "turno": 15
+  },
+  {
+    "codice": "E-15050",
+    "punteggio": 7.39,
+    "turno": 15
+  },
+  {
+    "codice": "F-1081",
+    "punteggio": 7.39,
+    "turno": 15
+  },
+  {
+    "codice": "F-15247",
+    "punteggio": 7.39,
+    "turno": 15
+  },
+  {
+    "codice": "F-4136",
+    "punteggio": 7.39,
+    "turno": 15
+  },
+  {
+    "codice": "F-6505",
+    "punteggio": 7.39,
+    "turno": 15
+  },
+  {
+    "codice": "F-8341",
+    "punteggio": 7.39,
+    "turno": 15
   },
   {
     "codice": "R-11588",
@@ -45510,6 +48650,11 @@
     "turno": 1
   },
   {
+    "codice": "D-542",
+    "punteggio": 7.32,
+    "turno": 15
+  },
+  {
     "codice": "S-5909",
     "punteggio": 7.32,
     "turno": 4
@@ -45543,6 +48688,11 @@
     "codice": "D-17225",
     "punteggio": 7.14,
     "turno": 13
+  },
+  {
+    "codice": "D-5845",
+    "punteggio": 7.14,
+    "turno": 15
   },
   {
     "codice": "R-8293",
@@ -45770,6 +48920,21 @@
     "turno": 1
   },
   {
+    "codice": "D-8397",
+    "punteggio": 6.6,
+    "turno": 15
+  },
+  {
+    "codice": "F-11833",
+    "punteggio": 6.6,
+    "turno": 15
+  },
+  {
+    "codice": "F-17118",
+    "punteggio": 6.6,
+    "turno": 15
+  },
+  {
     "codice": "R-20217",
     "punteggio": 6.6,
     "turno": 4
@@ -45915,6 +49080,11 @@
     "turno": 11
   },
   {
+    "codice": "F-21911",
+    "punteggio": 6.35,
+    "turno": 15
+  },
+  {
     "codice": "P-5878",
     "punteggio": 6.35,
     "turno": 2
@@ -45948,6 +49118,16 @@
     "codice": "D-6703",
     "punteggio": 6.24,
     "turno": 13
+  },
+  {
+    "codice": "D-9206",
+    "punteggio": 6.24,
+    "turno": 15
+  },
+  {
+    "codice": "F-5387",
+    "punteggio": 6.24,
+    "turno": 15
   },
   {
     "codice": "R-12024",
@@ -46115,6 +49295,11 @@
     "turno": 7
   },
   {
+    "codice": "E-17715",
+    "punteggio": 6.1,
+    "turno": 15
+  },
+  {
     "codice": "S-17289",
     "punteggio": 6.06,
     "turno": 6
@@ -46218,6 +49403,21 @@
     "codice": "P-20967",
     "punteggio": 6.06,
     "turno": 1
+  },
+  {
+    "codice": "D-345",
+    "punteggio": 6.06,
+    "turno": 15
+  },
+  {
+    "codice": "E-6074",
+    "punteggio": 6.06,
+    "turno": 15
+  },
+  {
+    "codice": "F-20446",
+    "punteggio": 6.06,
+    "turno": 15
   },
   {
     "codice": "R-10768",
@@ -46810,6 +50010,11 @@
     "turno": 13
   },
   {
+    "codice": "F-24478",
+    "punteggio": 5.81,
+    "turno": 15
+  },
+  {
     "codice": "D-24596",
     "punteggio": 5.81,
     "turno": 14
@@ -46848,6 +50053,26 @@
     "codice": "P-16180",
     "punteggio": 5.63,
     "turno": 1
+  },
+  {
+    "codice": "D-19593",
+    "punteggio": 5.63,
+    "turno": 15
+  },
+  {
+    "codice": "D-22262",
+    "punteggio": 5.63,
+    "turno": 15
+  },
+  {
+    "codice": "D-4561",
+    "punteggio": 5.63,
+    "turno": 15
+  },
+  {
+    "codice": "F-21478",
+    "punteggio": 5.63,
+    "turno": 15
   },
   {
     "codice": "D-7723",
@@ -46960,6 +50185,16 @@
     "turno": 1
   },
   {
+    "codice": "D-4452",
+    "punteggio": 5.27,
+    "turno": 15
+  },
+  {
+    "codice": "D-5241",
+    "punteggio": 5.27,
+    "turno": 15
+  },
+  {
     "codice": "S-19837",
     "punteggio": 5.27,
     "turno": 4
@@ -46993,6 +50228,11 @@
     "codice": "T-990",
     "punteggio": 5.09,
     "turno": 6
+  },
+  {
+    "codice": "D-2536",
+    "punteggio": 5.09,
+    "turno": 15
   },
   {
     "codice": "P-24721",
@@ -47030,6 +50270,11 @@
     "turno": 3
   },
   {
+    "codice": "F-9003",
+    "punteggio": 5.02,
+    "turno": 15
+  },
+  {
     "codice": "B-1601",
     "punteggio": 5.02,
     "turno": 9
@@ -47048,6 +50293,11 @@
     "codice": "N-744",
     "punteggio": 4.91,
     "turno": 1
+  },
+  {
+    "codice": "F-15858",
+    "punteggio": 4.91,
+    "turno": 15
   },
   {
     "codice": "R-10288",
@@ -47188,6 +50438,26 @@
     "codice": "P-20767",
     "punteggio": 4.73,
     "turno": 1
+  },
+  {
+    "codice": "D-22830",
+    "punteggio": 4.73,
+    "turno": 15
+  },
+  {
+    "codice": "E-18365",
+    "punteggio": 4.73,
+    "turno": 15
+  },
+  {
+    "codice": "F-11022",
+    "punteggio": 4.73,
+    "turno": 15
+  },
+  {
+    "codice": "F-3896",
+    "punteggio": 4.73,
+    "turno": 15
   },
   {
     "codice": "R-11621",
@@ -47575,6 +50845,11 @@
     "turno": 3
   },
   {
+    "codice": "F-24473",
+    "punteggio": 4.48,
+    "turno": 15
+  },
+  {
     "codice": "P-10497",
     "punteggio": 4.48,
     "turno": 2
@@ -47608,6 +50883,11 @@
     "codice": "P-17891",
     "punteggio": 3.94,
     "turno": 1
+  },
+  {
+    "codice": "D-16532",
+    "punteggio": 3.94,
+    "turno": 15
   },
   {
     "codice": "S-10767",
@@ -47768,6 +51048,31 @@
     "codice": "P-18644",
     "punteggio": 3.4,
     "turno": 1
+  },
+  {
+    "codice": "D-11480",
+    "punteggio": 3.4,
+    "turno": 15
+  },
+  {
+    "codice": "D-17567",
+    "punteggio": 3.4,
+    "turno": 15
+  },
+  {
+    "codice": "D-917",
+    "punteggio": 3.4,
+    "turno": 15
+  },
+  {
+    "codice": "E-18211",
+    "punteggio": 3.4,
+    "turno": 15
+  },
+  {
+    "codice": "F-3213",
+    "punteggio": 3.4,
+    "turno": 15
   },
   {
     "codice": "R-11297",
@@ -48080,6 +51385,11 @@
     "turno": 1
   },
   {
+    "codice": "F-6819",
+    "punteggio": 2.61,
+    "turno": 15
+  },
+  {
     "codice": "P-16125",
     "punteggio": 2.61,
     "turno": 2
@@ -48193,6 +51503,16 @@
     "codice": "P-4438",
     "punteggio": 2.07,
     "turno": 1
+  },
+  {
+    "codice": "E-7788",
+    "punteggio": 2.07,
+    "turno": 15
+  },
+  {
+    "codice": "E-9951",
+    "punteggio": 2.07,
+    "turno": 15
   },
   {
     "codice": "R-11143",
@@ -48415,6 +51735,11 @@
     "turno": 12
   },
   {
+    "codice": "E-21684",
+    "punteggio": 0.92,
+    "turno": 15
+  },
+  {
     "codice": "Z-16682",
     "punteggio": 0.92,
     "turno": 7
@@ -48535,6 +51860,11 @@
     "turno": 7
   },
   {
+    "codice": "F-18002",
+    "punteggio": 0.35,
+    "turno": 15
+  },
+  {
     "codice": "B-16294",
     "punteggio": 0.13,
     "turno": 9
@@ -48553,6 +51883,11 @@
     "codice": "R-11936",
     "punteggio": -0.3,
     "turno": 4
+  },
+  {
+    "codice": "F-20838",
+    "punteggio": -0.41,
+    "turno": 15
   },
   {
     "codice": "R-15765",
